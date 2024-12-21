@@ -1,0 +1,31 @@
+This upgraded "Silver Bullet" trading strategy aims for a higher win rate than its predecessor (40-45%).  It focuses on identifying intraday bias using external range liquidity (ERL) and internal range liquidity (IRL) on the 15-minute timeframe before the trading window.
+
+**London Session Silver Bullet (3 AM - 4 AM):**
+
+*   Identify ERL breakout on the 15-minute chart before 3 AM.
+*   Switch to the 1-minute chart and look for a fair value gap (FVG) and market structure shift after the ERL breakout.
+*   Entry before 4 AM, targeting a 1:1 or 1:2 risk-reward ratio.
+*   Look for SMT (Stochastic Momentum Index) divergences for increased probability.
+
+**New York Session Silver Bullet (10 AM - 11 AM):**
+
+*   Similar process as London session, but before/after 10 AM.
+*   Identify the dealing range (high and low defined by liquidity sweeps).
+*   FVG entry within the dealing range, targeting 1:1, 1:2, or 1:3 risk-reward ratio (1:2 recommended).
+
+**Key Concepts:**
+
+*   **External Range Liquidity (ERL):** Highs and lows on the chart.
+*   **Internal Range Liquidity (IRL):** Fair value gaps.
+*   **Dealing Range:** High and low defined by liquidity sweeps on the 15-minute chart.  FVGs within this range are prioritized.
+*   **Market Structure Shift:** A reversal in price action on the 1-minute chart.
+*   **SMT Divergence:** Discrepancy between price action and the SMT indicator, indicating potential reversal.  Used as a confirmation signal.
+*   **Risk-Reward Ratio:**  The strategy emphasizes a 1:2 risk-reward ratio (minimum 1:1).
+
+**Correlating Pairs:**
+
+*   USD pairs: GBPUSD for EURUSD, NZDUSD for AUDUSD.
+*   JPY pairs: GBPJPY for EURJPY.
+*   Indices: US30 and S&P 500 for NAS100.
+
+The author offers a paid course and Discord server with signals including entry, stop-loss, and take-profit levels.

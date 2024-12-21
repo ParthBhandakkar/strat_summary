@@ -1,0 +1,20 @@
+This video describes a three-rule trading strategy using ABC pattern liquidity sweeps.
+
+**The Rules:**
+
+1. **Identify an ABC pattern liquidity sweep:**  An ABC pattern consists of a move in one direction (A), a reversal (B), and a third move in the same direction as the first (C). The C leg surpasses the high of the A leg (for shorts) or the low of the A leg (for longs).  The "liquidity sweep" occurs when the C leg crosses the high or low of the A leg. Size of the A and B legs matters; they should be "decent."
+
+2. **Wait for a market structure shift:** After the liquidity sweep, within the range (defined as below the high of the A leg), the price should create a new structure (e.g., a candle low). The trade entry is taken after the price breaks this structure.
+
+3. **Take entry from the extreme capability gap and target the low of the B leg:** Entry is taken at the break of the structure created in rule 2. The target is the low of the B leg. Do not chase the price. Use only one timeframe (1-minute or 5-minute timeframe is suggested).
+
+**Additional Considerations:**
+
+* **Invalid Setups:** If the price, after touching the A leg high/low, reverses and creates another ABC pattern before breaking the structure, the setup is invalid.
+* **Structure Importance:** Only the structure created *before* the liquidity sweep is considered for the trade entry.
+* **Fair Value Gap:**  Large fair value gaps may present additional entry opportunities, possibly using Fibonacci levels.
+* **Stop Loss Placement:** Place the stop loss slightly above the high of the entry candle or at the high of the structure.
+* **Take Profit:** The low of the B leg.
+* **Optional Enhancement:** To improve win rate, consider using higher timeframe (e.g., 4-hour) market structure analysis (Fibonacci levels of 50% or higher) to confirm bearish or bullish bias before entering a trade on a lower timeframe.  Only take short positions in a bearish trend and long positions in a bullish trend.
+
+The speaker emphasizes backtesting and finding personal improvements to the strategy.  He also promotes a mentorship program.

@@ -1,0 +1,24 @@
+This video describes a trading strategy based on identifying and exploiting liquidity in financial markets.  The core concepts are:
+
+**1. Price Movement:** Price moves between external range liquidity (ERL – highs and lows) and internal range liquidity (IRL – gaps within the range).
+
+**2. Time Frame Alignment:**  The strategy uses multiple timeframes for confirmation:
+
+* **Swing Trader:** Monthly, Daily, 1-hour charts.  Bias from monthly, confirmation from daily, entry on 1-hour.
+* **Intermediate Term Trader:** Weekly, 4-hour, 15-minute charts. Bias from weekly, confirmation from 4-hour, entry on 15-minute.
+* **Day Trader:** Daily, 1-hour, 5-minute charts. Bias from daily, confirmation from 1-hour, entry on 5-minute.
+
+**3. Identifying Trading Opportunities:**
+
+* **Daily Chart:** Identify ERL breakouts.  Use the midpoint of the daily trading range as a reference.  Look for IRL (fair value gaps) within this range.
+* **Lower Timeframe (1-hour or 15-minute):** After a daily ERL breakout, move to the lower timeframe. Look for a market structure shift confirming the bias (e.g., lower high/lower low formations for a short trade).
+* **Entry:** On the lowest timeframe (5-minute or 1-minute), look for a market structure shift and enter at an auto-block or fair value gap.
+* **Take Profit:** Target the next significant low/high on the intermediate timeframe (1-hour or 15-minute).
+
+**4. Important Considerations:**
+
+* **Liquidity Sweeps:**  For short trades, the lower high must be swept after 2 AM New York time (Asian session sweeps are invalid).
+* **Risk Management:** The strategy acknowledges a 60-65% win rate (potentially up to 70% with perfect execution).  Stop losses should be set to manage risk (1:2 risk-reward ratio suggested).
+
+
+The video provides examples of the strategy applied to GBP/AUD and another unspecified pair, showing both winning and losing trades.  The presenter also promotes a challenge passing service and a perfume.

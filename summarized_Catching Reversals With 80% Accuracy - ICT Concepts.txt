@@ -1,0 +1,14 @@
+This lecture teaches how to identify high-probability market structure shifts in trading.  Key concepts include:
+
+**Differentiating Liquidity Sweeps from Market Structure Shifts:**  Liquidity sweeps are temporary price movements, often resulting in continuation patterns.  Market structure shifts represent significant changes in market direction.
+
+**Identifying Valid Market Structure Shifts:** A valid shift occurs when price action reacts to a significant level (daily key level, external range liquidity, significant high/low, auto-block, fair value gap).  Confirmation can be found by looking at external to internal relationships, price driven ranges (PDRs), auto-blocks, and fair value gaps.
+
+**SMT Divergence:** This isn't standard divergence. It involves comparing the price action of two currency pairs (e.g., EURUSD and GBPUSD). A divergence occurs when one pair shows a clear higher high (or lower low) while the other fails to confirm this pattern.  A market structure shift or break in structure confirms the SMT divergence.  The cleaner the market structure shift after the divergence, the better the trading opportunity.
+
+**High-Probability Entry:** A high-probability entry is identified when an SMT divergence is followed by a market structure shift.  Looking at lower timeframes (e.g., 1-hour chart for a daily shift) can provide further confirmation.
+
+
+**Examples:** The lecture provides two detailed examples illustrating how to identify SMT divergence and market structure shifts on different timeframes (monthly, daily, 4-hour) using specific currency pairs (NAS 100, US 30, EURUSD, GBPUSD).  These examples emphasize identifying cleaner price action post-divergence.
+
+**The lecture also promotes a paid course and discord server ($1.50) offering:** signals, personalized funding assistance, Q&A, market forecasts, and trading strategies.  The course covers topics from basic trading concepts to advanced strategies (market maker models, bias, quarterly theory).  A challenge-passing service is also advertised.

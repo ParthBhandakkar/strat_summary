@@ -1,0 +1,9 @@
+This video describes a trading strategy that resulted in a $2600 profit in a few minutes on Friday.  The trader used a top-down analysis approach, starting with the daily timeframe to identify bias and then refining the trade on the hourly and 2-minute timeframes. Key elements of the strategy include:
+
+* **Identifying Market Bias:** Analyzing daily charts to identify external and internal range liquidity, volume imbalances, and potential three-strike patterns.
+* **Order Flow Analysis:** Observing how price action interacts with points of control (PDAs) like auto-blocks, fair value gaps, and volume imbalances to confirm bullish or bearish bias.
+* **Equal Highs/Lows:**  Using equal highs as price targets.
+* **Intraday Adjustments:**  Shifting short-term bias based on intraday price action.
+* **Pre-Market Analysis:** Observing pre-market movements to identify potential fake market structure shifts.
+
+The trader emphasizes the importance of building a "story" based on chart analysis before entering a trade, rather than relying on mechanical systems.  He made the trade live with his Discord members, who also profited.  The video promotes a 35% Black Friday discount (code "Friday") on his discord server and trading course which provides access to live trading sessions and market analysis.  Currently, his Discord group has a 6-2 win-loss record.

@@ -1,0 +1,25 @@
+This video describes a forex trading strategy that allegedly generated over $3000 profit for the presenter.  The core strategy involves:
+
+**1. Daily Timeframe Identification:**
+* Identify the daily candle's high and low.
+* Wait for price to break either the daily high or daily low.
+
+**2. One-Hour Timeframe Analysis:**
+* Switch to the one-hour timeframe.
+* Use Fibonacci retracement from the daily range high to low (or low to high, depending on the breakout).
+* Identify a "fairly gap" (presumably a significant gap in price action) above or below the 50% Fibonacci level. This gap represents the target for the trade.  Prioritize fairly gaps below 50% if both above and below exist.
+
+**3. Five-Minute/Fifteen-Minute Timeframe Entry:**
+* Switch to the five-minute (or fifteen-minute) timeframe.
+* Look for a market structure shift (e.g., a broken low or high).
+* Enter the trade *after 2 AM New York time* at the identified "fairly gap" or near an auto-block (not fully explained).
+
+**4. Risk/Reward:**
+* The stop loss is placed above/below the entry point, aiming for a 1:2 or better risk-reward ratio.
+
+**Additional Considerations:**
+* The presenter suggests using SMT divergence to increase probability.
+* Wicks can be considered for market structure shifts.
+
+
+The video includes multiple examples of the strategy applied to different currency pairs.  The presenter strongly emphasizes sticking to this strategy and promotes their Discord server and a paid service for passing prop firm challenges.

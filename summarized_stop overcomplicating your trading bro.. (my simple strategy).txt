@@ -1,0 +1,29 @@
+This video describes a trading strategy based on identifying and exploiting price movements related to "fair value gaps" and the taking out of highs and lows.  The core concept is that price action alternates between taking out highs/lows (external liquidity) and filling fair value gaps (internal liquidity).
+
+**The Trading Strategy:**
+
+1. **Identify:** On a higher timeframe (daily, weekly, monthly), locate a situation where price has taken out a high (or low).  A fair value gap (a noticeable gap in price) will typically exist.
+
+2. **Confirm:** Move down to a lower timeframe (e.g., daily to hourly, hourly to 5-minute). Look for a "market structure shift" confirming the directional bias established in the higher timeframe.  This shift indicates a change in market momentum.
+
+3. **Entry:** On the lowest timeframe, look for a liquidity sweep (a quick price movement that consumes buy-side or sell-side orders). This is the entry point.
+
+4. **Take Profit:** The initial take profit target is often the nearest significant low (if shorting) or high (if longing) identified on the higher timeframe. Further targets can extend to the higher timeframe's fair value gap or other significant price levels.
+
+**Timeframes Used as Examples:**
+
+* **Daily:** Used with hourly and 5-minute charts.
+* **Weekly:** Used with 4-hour and 15-minute charts.
+* **Intraday:** 4-hour, 15-minute, and 1-minute charts (though using timeframes smaller than 1-minute is discouraged).
+* **Monthly:** Used with daily and hourly charts.
+
+
+**Important Considerations:**
+
+* **Bias:** The strategy suggests it's easier to trade from external liquidity (highs/lows) to internal liquidity (fair value gaps). Trading the opposite direction requires a stronger understanding of market sentiment.
+* **Backtesting and Practice:** The presenter emphasizes the need for backtesting and practice to master the strategy.
+* **Risk Management:** While specific stop-loss placement isn't explicitly detailed, the examples suggest placing stops just above highs (for longs) or below lows (for shorts).
+* **Risk/Reward:** The examples aim for 1:2 or 1:3 risk-reward ratios, but potentially higher reward targets are mentioned.
+
+
+The presenter repeatedly claims this is a complete trading system requiring no other knowledge or indicators.  This is a bold claim and should be approached with critical thinking and appropriate risk management.

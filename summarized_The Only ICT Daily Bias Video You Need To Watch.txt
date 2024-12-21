@@ -1,0 +1,26 @@
+This video teaches a daily bias trading technique to improve win rates.  The core concept involves identifying a "PD array" (any significant high or low, including fair value gaps, auto blocks, breaker blocks, inverse fair value gaps, Reapers, or BPRs) on the daily timeframe.
+
+**Two scenarios are presented:**
+
+**Option 1: Price is outside the daily PD array:**
+
+1. **Anticipation:**  Anticipate price moving into the daily PD array the next day.
+2. **15-minute timeframe analysis:**  Switch to the 15-minute chart. Look for an accumulation phase followed by a manipulation phase into the PD array.
+3. **Measuring the manipulation move:** Identify a "high high high low high high" pattern followed by a market structure shift. Use the Fibonacci tool (settings provided in video) from the last high to the last low before the market structure shift.  The projection (typically -2 to -2.5) indicates where the manipulation phase might end.
+4. **Confirmation:** Price tapping into the daily PD array and the 15-minute projection confirms the bias. A subsequent market structure shift to the upside confirms the bullish bias.
+5. **Distribution phase:**  Use the Fibonacci tool from the last low to the last high before the market structure shift to project the distribution phase.  Price may reverse or retrace from this level (-2 to -2.5).
+
+**Option 2: Price is already inside the daily PD array:**
+
+1. **Wait for the next candle:** Wait for the next candle to open.
+2. **15-minute timeframe analysis:** Look for a similar accumulation and manipulation phase on the 15-minute chart.
+3. **Measuring the manipulation move:** Use the Fibonacci tool (as in Option 1) to project the end of the manipulation phase.
+4. **Confirmation and Entries:** Look for market structure shifts and potential entries (e.g., fair value gaps, auto blocks) on lower timeframes (15-minute or 1-minute). Multiple entries might be possible based on market structure shifts and Fibonacci projections.
+
+
+**Example Assets Used:** NAS 100 and USD CAD.  The Gold strategy is mentioned as an example where this technique can be applied.  The technique is shown applied to both long and short trades.
+
+**Additional Notes:**
+
+* The technique requires practice and backtesting.
+* The video promotes a mentorship program.

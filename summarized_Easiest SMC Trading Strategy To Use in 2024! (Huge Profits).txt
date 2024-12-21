@@ -1,0 +1,21 @@
+This video describes an SMC (likely referring to a specific trading strategy, possibly "Smart Money Concepts") trading strategy focused on time frame alignment.  The core principles are:
+
+**Time Frame Alignment:**  The strategy emphasizes analyzing higher timeframes first, then progressively moving to lower timeframes for entry.  The specific timeframes depend on the trader's style:
+
+* **Swing Trader:** Monthly (identify autoflow, mark down-closed candles as autoblocks), then Daily (look for market structure shift off monthly autoblock, mark daily autoblock), then 1-hour (look for market structure shift off daily autoblock, enter at 1-hour autoblock).
+* **Intermediate Trader:** Weekly (identify autoflow, mark autoblocks), then 4-hour (look for market structure shift), then 15-minute (enter).
+* **Day Trader/Scalper:** Daily (identify autoflow, mark autoblocks), then 1-hour (look for market structure shift), then 5-minute (enter; optional inducement technique for higher win rate).
+
+**Identifying Autoflow:**  The video describes identifying autoflow by looking for consistent breaks of structure or, more simply, determining the market direction within five seconds.  If the direction isn't clear within that timeframe, the trader moves to another pair.
+
+**Autoblocks:** These are identified as down-closed candles (for bullish autoflow) or up-closed candles (for bearish autoflow), marking potential entry points.  Only the body of the candle is considered, not the wick.
+
+**Market Structure Shift:** This is a crucial confirmation signal on each subsequent timeframe, indicating a potential reversal or continuation.
+
+**Entry:** Entry is taken from the autoblock on the lowest timeframe after confirming market structure shifts on progressively lower timeframes.  Stops are placed below the low of the lowest timeframe autoblock.
+
+**Optional Inducement Technique (5-minute timeframe):**  Looking for liquidity engineered just above the autoblock, anticipating a price pullback before resuming the main trend.
+
+**Trading Sessions:** The video recommends entering trades during London and New York sessions for JPY or AUD pairs, and also mentions the Asian session for GBPJPY.
+
+The video also includes promotional information for a challenge-passing service and a perfume, which are irrelevant to the trading strategy itself.

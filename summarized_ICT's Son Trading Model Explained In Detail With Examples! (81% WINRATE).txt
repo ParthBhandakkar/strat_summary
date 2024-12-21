@@ -1,0 +1,26 @@
+This video describes a trading strategy, allegedly revealed by ICT on Twitter, for trading indices and futures (like the S&P 500, NASDAQ 100, and US 30).  The strategy involves multiple timeframes:
+
+**Core Strategy (using 1-hour, 5-minute, and 30-second charts):**
+
+1. **Identify Higher Timeframe Draw on Liquidity:** On the 1-hour chart, identify a "draw on liquidity" (a level where the price is expected to reverse due to prior price action and order book imbalances).  This is often a fair value gap (internal liquidity) or a significant swing high/low (external liquidity). The video recommends using external and internal liquidity methods (a separate video is linked for explanation).
+
+2. **Confirm Intraday Bias:**  After identifying the 1-hour draw on liquidity, observe the 5-minute chart. Look for a market structure shift (a clear change in trend) that confirms the direction of the 1-hour liquidity.  This shift confirms whether the price is likely to move towards the identified liquidity level.
+
+3. **Identify 5-minute Swing High/Low:** Wait for price action on the 5-minute chart to create a swing high (if shorting) or swing low (if longing) after the market structure shift.
+
+4. **30-Second Entry:** Once the 5-minute swing high/low is broken, switch to the 30-second chart. Look for the formation of a fair value gap. Enter the trade near the fair value gap.  (Note: requires a premium TradingView package).
+
+5. **Risk/Reward:** The original strategy suggested a 12-handle stop loss and a 10-handle take profit (negative risk/reward). The video suggests a modified approach with a 10-handle stop loss and a 10-handle take profit (1:1 risk/reward).  A "handle" refers to a price increment; the exact value depends on the traded asset.
+
+**Alternative Methods:**
+
+The video also mentions alternative methods for identifying intraday bias that don't rely solely on the external/internal liquidity method.  One example is identifying buy-side or sell-side liquidity purges on the 1-hour chart and looking for a market structure shift on the 5-minute chart to confirm the bias.
+
+**Important Considerations:**
+
+* **Kill Zone Timings:**  The video emphasizes taking trades during "kill zone" timings (specific times of day when market volatility is typically high).
+* **Accuracy:**  The presenter states that perfect accuracy in identifying the draw on liquidity isn't necessary; it's more about understanding the likely direction of price movement.
+* **Backtesting:** The presenter claims to have backtested the strategy extensively.
+
+
+**Course Promotion:**  The video promotes a paid course ($97) that includes access to a private Discord server, monthly updates, and additional trading strategies.

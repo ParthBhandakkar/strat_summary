@@ -1,0 +1,21 @@
+This video details a gold trading strategy aiming for 8-10% monthly returns.  The core strategy involves:
+
+**The Strategy:**
+
+1. **Time:** At 8 PM New York time (Asian session open).
+2. **Chart:** Use a 15-minute timeframe.
+3. **Identification:** Identify the most recent high and low before 8 PM.  These don't need to be swing highs/lows.
+4. **Trigger:** Wait for price to break either the recent high or low.
+5. **Entry:** Switch to a 1-minute timeframe. Enter a trade when a market structure shift occurs (a candle closes beyond the identified high or low). Entry must be before 10 PM NY time.
+6. **Stop Loss:** Place stop loss just above the high (for long positions) or below the low (for short positions), adjusting for spreads and position size (aiming for 10 lots max).
+7. **Target:** Aim for a 1:2 risk/reward ratio initially, taking 80% profit at that point.  Hold the remaining 20% for a potential 1:5 risk/reward.
+
+**Enhancements:**
+
+* **Daily Bias (Optional):**  Analyze daily candles. If a candle closes above the previous day's candle, the bias is bullish for the next day.  Conversely, a close below suggests a bearish bias.  This can improve win rate.
+* **SMT Divergence (Optional):** Using divergence between gold and DXY or silver can further refine entries.
+
+
+**Example Trades:** The video includes several examples demonstrating the strategy's application.  These examples highlight how to identify market structure shifts on the 1-minute chart and manage stop-loss and profit targets.
+
+**Disclaimer:** The presenter emphasizes that while the strategy aims for consistent long-term gains, there will be losing days. He claims this is one of his best strategies with a high win rate, but stresses the importance of following the strategy precisely.  A paid course is promoted at the end.

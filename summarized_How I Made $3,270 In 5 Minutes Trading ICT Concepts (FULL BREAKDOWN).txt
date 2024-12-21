@@ -1,0 +1,8 @@
+The speaker made $3,000 in five minutes trading NASDAQ futures.  This was a trade shared live with their Discord server members.  The strategy involved identifying and reacting to liquidity on different timeframes (one-hour and one-minute).  Specifically, they looked for:
+
+* **Higher timeframe context:**  The one-hour chart showed price action influenced by elections and overnight trading activity.  The speaker anticipated a retracement or reversal after a price surge.
+* **Liquidity identification:** They identified buy-side liquidity on the one-hour chart and watched for its sweep.
+* **Lower timeframe confirmation:** On the one-minute chart, they looked for confirmation of the reversal/retracement, focusing on price action around the previously identified liquidity level, including an inverse head and shoulders pattern.
+* **Entry and Exit:** Entry was triggered when the price broke through an identified inverse head and shoulders pattern and the trade was exited at a predetermined profit target based on lower timeframe liquidity.
+
+The speaker emphasizes that this isn't a mechanical system but relies on interpreting market behavior and building a logical narrative based on observed price action and liquidity.  They suggest that learning this skill requires live trading experience or extensive backtesting.  A 20% discount code ("fast20") is offered for access to their Discord server and course.

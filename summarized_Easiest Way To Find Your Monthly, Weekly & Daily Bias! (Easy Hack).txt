@@ -1,0 +1,24 @@
+This video describes a method for determining daily, weekly, and monthly market bias using liquidity levels and market structure.  The core concepts are:
+
+**Identifying Liquidity:**
+
+* **External Liquidity:** Highs and lows on a chart.
+* **Internal Liquidity (Fair Value Gap):** A gap in price within a "discount" or "premium" zone identified using a Fibonacci retracement tool.  A discount zone is below the 0.5 Fibonacci level (drawn from swing low to swing high), while a premium zone is above the 0.5 level (drawn from swing high to swing low).
+
+**Determining Bias:**
+
+The process involves these steps for each timeframe (monthly, weekly, daily):
+
+1. **Identify External Liquidity and Internal Liquidity:**  Locate a swing high or low (external liquidity) and the subsequent fair value gap (internal liquidity) on the chosen timeframe.
+2. **Downshift to a Lower Timeframe:** Move to a smaller timeframe (daily for monthly, 4-hour for weekly, 1-hour for daily).
+3. **Look for Market Structure Shift:** Wait for a clear market structure shift on the lower timeframe (e.g., a lower low followed by a break below it for bearish bias). This confirms the bias.
+4. **Trade Based on Bias:** Once a market structure shift confirms the bias, use other trading strategies (mentioned but not detailed in the video) to identify entry and exit points.  The video emphasizes that going from external to internal liquidity has a higher probability of success.
+
+**Timeframe Breakdown:**
+
+* **Monthly Bias:** Analyze the monthly chart, then look for a market structure shift on the daily chart.
+* **Weekly Bias:** Analyze the weekly chart, then look for a market structure shift on the 4-hour chart.
+* **Daily Bias:** Analyze the daily chart, then look for a market structure shift on the 1-hour chart.
+
+
+The video includes examples of each timeframe, illustrating the process with specific charts (AUDUSD).  The presenter also promotes a paid course offering more detailed strategies and community access.

@@ -1,0 +1,10 @@
+Faz backtests his "autoflow SMC trading strategy" on USD/CAD.  The strategy involves:
+
+* **Identifying the autoflow (overall trend):**  He determines if the overall trend is bullish or bearish based on the 4-hour chart.  In this backtest, it started bullish but shifted bearish later.
+* **Marking Point of Interest (POI) areas (auto blocks):** These are areas of support or resistance identified on the 4-hour chart.
+* **Looking for market structure shifts on lower timeframes (15-minute):** Entries are taken when a market structure shift occurs *during London session kill hours (2:00-4:00 PM GMT)*.
+* **Entry:** Longs are taken when a structure shift happens within a POI area during London kill hours. Shorts are taken in similar fashion during a bearish autoflow.
+* **Stop Loss:** Typically 28 pips, placed below the low of the entry candle.
+* **Take Profit:** 1:2 risk/reward ratio (double the stop loss).
+
+The backtest spanned from September 26th to November 23rd.  Over this period, trading only one pair (USD/CAD), he achieved 7% profit with several trades, demonstrating multiple wins and losses, ultimately ending with a positive outcome.  He emphasizes the importance of patience, identifying the trend, and consistent application of the strategy's rules. He also notes that while he aims for a 1:2 risk reward, during live trading he might utilize break-even adjustments.  He mentions the strategy works across various pairs, suggesting an average of 3-4 setups per week per pair. The video encourages viewers to watch his previous video for a full explanation of the strategy and offers a course for more advanced learning.

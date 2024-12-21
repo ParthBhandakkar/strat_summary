@@ -1,0 +1,15 @@
+This video provides seven tips for becoming a six-figure funded Twitter trader:
+
+1. **Avoid Trading Addiction:** Limit live trades to one or two per day.  Avoid constant chart watching; backtesting is different.  Stepping away after losses is okay.
+
+2. **Consistent Trading Strategy:** Develop and backtest a consistently profitable trading strategy using at least two years of data.  Confidence in your system prevents premature exits and increases profitability.
+
+3. **Backtesting:** Backtest extensively (4-5 hours if possible) to build confidence in your strategy and reduce emotional trading. Two years of data is recommended.
+
+4. **Solid Risk Management:** Maintain consistent risk per trade (e.g., 1-2%).  Only deviate from this if nearing a deadline for a challenge and require a specific profit percentage to pass.  A 1:2 risk-to-reward ratio is suggested.
+
+5. **Proper Diet and Exercise:** Daily exercise and a healthy diet build discipline and improve mental health, reducing over-trading and enhancing focus.
+
+6. **Meditation:** Daily meditation (focusing on a mental image for 5-10 minutes) improves focus and mood.
+
+7. **Daily Gratitude:**  Journaling about things you are grateful for fosters a positive mental state, improving trading performance.  Benefits may not be immediately apparent, but consistent practice (2-3 weeks) is key.

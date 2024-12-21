@@ -1,0 +1,21 @@
+This YouTube video describes a smart money concepts trading strategy using three timeframes (e.g., 1-hour, 15-minute, 5-minute).  The strategy involves four rules:
+
+**Rule 1: Identify Higher Time Frame Point of Interest (POI).**  Find an "auto block" (a significant price level with prior price rejection) on the highest timeframe (e.g., 1-hour chart).
+
+**Rule 2: Refine the POI.**  Move to a lower timeframe (e.g., 15-minute chart) and refine the auto block to a more precise entry point.
+
+**Rule 3: Look for a Turtle Soup/ABC Pattern.** On the lowest timeframe (e.g., 5-minute chart), wait for price to approach the refined POI and form an ABC pattern (or "turtle soup" pattern – these are described as equivalent). The C-leg of the pattern should reach into the refined POI.
+
+**Rule 4: Wait for Change of Character + Break of Structure.** After the ABC pattern, wait for a change in market character (a shift in momentum) and a break of structure (price breaking through a recent high or low).  Only then look for an entry.
+
+**Entry:** Enter a trade at an "extreme auto block with a fair value gap" (a significant price level with a gap below it), which often appears after the break of structure.
+
+**Timeframes:** The example uses 1-hour, 15-minute, and 5-minute charts but suggests experimenting with other combinations (like 30-minute, 5-minute, and 1-minute).  The video emphasizes the importance of backtesting different timeframe combinations.
+
+**Important Considerations:**
+
+* **London and New York Sessions:** The presenter suggests trading during the overlap of the London and New York trading sessions.
+* **Multiple Break of Structures:**  The strategy may involve waiting for multiple break of structures before entering a trade.
+* **Backtesting:** Extensive backtesting is crucial to optimize the strategy and find the best timeframe combinations.
+
+The video includes several examples demonstrating the strategy's application.  The presenter repeatedly emphasizes that this is not financial advice and viewers should not use this strategy without thorough understanding and backtesting.

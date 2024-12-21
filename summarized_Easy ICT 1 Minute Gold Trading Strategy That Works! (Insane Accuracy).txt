@@ -1,0 +1,23 @@
+This video describes a one-minute scalping strategy for trading gold, NAS 100 futures, and crypto, primarily focusing on gold.  The strategy involves identifying a valid range high and range low on the one-minute timeframe.
+
+**Identifying the Range High and Low:**
+
+* **Range Low:** Identified after a price push in one direction (up or down) followed by a pullback.  Confirmation comes from a market structure shift within the pullback (e.g., lower lows and then a higher low indicating a shift).
+* **Range High:** Identified after a price push in one direction (up or down) followed by a pullback. The pullback must reach the 0.5 Fibonacci level of the range (from range low to initial high) and show a market structure shift to confirm validity.
+
+**Trading the Setup:**
+
+1. **Market Structure Shift:** A market structure shift must occur *after* the range high or range low is broken.  Crucially, after the range high/low break, price must close above/below the initial range high/low before entering a trade.
+2. **Entry:**  Enter the trade using an "auto block" (a support or resistance level identified by consecutive candles) or a retest of the range high/low after the market structure shift and close above/below the original range high/low.  A single significant candle can also provide an entry point.
+3. **Target:** The initial target is the range low (for short positions) or range high (for long positions).
+4. **Risk Management:**
+    * Take partial profits at the 0.5 Fibonacci level if a 1:1 or better risk-reward ratio is achieved; otherwise, break even.
+    * Consider additional partial profit targets at the 0.799 Fibonacci level or at the full range target.
+
+**Important Considerations:**
+
+* **Timeframes:** This strategy works across all trading sessions (Asian, London, New York), but caution is advised around high-impact news events. Trade after the news impact subsides.
+* **Auto Blocks and Fair Value Gaps:**  Knowledge of auto blocks and fair value gaps is crucial for optimal trade entries.
+* **Market Conditions:**  The strategy is most effective when price forms clear ranges within the trading sessions; this is particularly true during the London session (after the initial large move).  The New York session also frequently offers opportunities after about 9:30 am.
+
+The video includes multiple examples illustrating the strategy in practice, emphasizing the importance of market structure shifts for range identification and the use of auto blocks for precise entry points.

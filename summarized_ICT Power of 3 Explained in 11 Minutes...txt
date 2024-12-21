@@ -1,0 +1,20 @@
+This video explains the ICT "Power of Three" trading strategy, which consists of Accumulation, Manipulation, and Distribution (AMD).
+
+**Core Concept:**  The strategy identifies three phases in price movement:
+
+* **Accumulation:** A consolidation phase where liquidity pools form.  The market isn't trending strongly up or down.  This is often identified as a box or range.
+* **Manipulation:** A liquidity sweep or "fake-out" in the opposite direction of the main trend.  This often traps stop losses.
+* **Distribution:** The main price movement in the original trend direction.  This is where traders aim to profit.
+
+
+**Entry Points:** Traders look for entries around the end of the accumulation phase, potentially confirmed after the manipulation phase.  The Optimal Trade Entry (OTE) method, using Fibonacci levels, can also be employed.
+
+**Essential Considerations:**
+
+* **Trend Identification:**  The strategy requires identifying the overall trend (bullish or bearish) on higher timeframes (daily, 4-hour) before trading on lower timeframes (1-hour, 30-minute, 15-minute).
+* **Time of Day:** Trading during the London or New York sessions is recommended.
+* **Stop Loss:** The speaker advises against excessively tight stop losses (1-2 pips), advocating for a balance between risk management and timely profit booking.
+* **Point of Interest (POI):**  POIs, often located near support/resistance levels or areas of previous price action, are key entry/exit points.
+* **0.5 Fibonacci Level:** When bullish, look for consolidation below the 0.5 Fibonacci level.
+
+The video uses the AUD/USD pair as an example, illustrating how to identify the three phases and potential entry points on different timeframes.  The speaker emphasizes that the strategy is relatively simple, despite potential complexities often added by others.

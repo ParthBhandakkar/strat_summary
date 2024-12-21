@@ -1,0 +1,28 @@
+This video presents a scalping trading strategy with a claimed 70%+ win rate, backtested and forward-tested over 100 trades.  The strategy focuses on the EURUSD and GBPUSD currency pairs on a 5-minute timeframe.
+
+**The Strategy:**
+
+1. **Identify Asian Session Range:** Use the FXN Asian Session Range indicator (by Rob Minty) to determine the Asian session range.
+2. **Market Structure Shift:** After the Asian session, look for a market structure shift.
+3. **Sweep:**  Wait for price to sweep the high (or low) formed *before* the market structure shift.
+4. **Inverse Fibonacci Gap:** Identify the most recent inverse Fibonacci gap.
+5. **Entry:** Enter a long position on a retest of the inverse Fibonacci gap.
+6. **Risk/Reward:** Use a 1:1 risk-to-reward ratio (1:2 is also mentioned as potentially viable, but not recommended beyond that).
+
+**Entry Methods (Three Options):**
+
+* **Risky Sell Stop Order:** Enter when price breaks below the inverse Fibonacci gap.  Stop loss above the high; high risk of stop-out.
+* **Candle Closure:** Enter when a candle closes below the inverse Fibonacci gap.  Early entry, but potentially larger stop loss.
+* **Retest:** Wait for price to retest the inverse Fibonacci gap before entering.  Better risk/reward, but may miss trades.
+
+
+**Important Considerations:**
+
+* **Volume:** The price sweep should ideally occur with high volume.  If the price reacts significantly to the initial swing high/low (auto-block/liquidity level), the setup may be invalid.
+* **No Daily Bias:** The strategy doesn't require daily bias.
+* **Backtesting and Demo Account:** The creator strongly recommends backtesting and testing on a demo account before live trading.
+
+**Disclaimer:** The creator is not a financial advisor and is not responsible for any losses or profits.
+
+
+The video also promotes a paid course ($97, increasing to $150) with additional content, a private Discord server, and monthly updates.

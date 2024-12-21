@@ -1,0 +1,13 @@
+This video teaches how to find daily bias, draw on liquidity, and valid liquidity levels using fair value gaps.  The core method involves identifying the highest/lowest points (liquidity points) within a fair value gap on a given timeframe (e.g., daily chart for daily bias, 4-hour chart for intraday bias).
+
+**Key Steps:**
+
+1. **Identify Fair Value Gap:** Locate a fair value gap on the chosen timeframe.
+2. **Find Highs and Lows:** Identify the most recent high and low formed *within* the fair value gap.  Only one high and one low are considered valid within a single fair value gap.  If price sweeps a high/low, it's no longer a valid liquidity point.
+3. **Price Action:** Wait for price to break either the high or the low within the fair value gap.
+4. **Confirm with Market Structure Shift:** Drop down to a lower timeframe (e.g., 15-minute chart from a daily chart, 5-minute chart from a 1-hour chart). Look for a market structure shift (consecutive candles indicating a trend change) to confirm the break.
+5. **Target:** The target is the opposite extreme (high or low) within the fair value gap.  If price breaks the low, the target is the high; if price breaks the high, the target is the low.
+
+**Example:** On a daily chart, if price breaks the high within a fair value gap, switch to a 1-hour chart.  A market structure shift confirms the move, and the target becomes the low within the fair value gap on the daily chart.
+
+The method is presented as applicable across multiple timeframes, and the speaker emphasizes that these liquidity levels are stronger than others.  The video includes multiple examples to illustrate the technique.

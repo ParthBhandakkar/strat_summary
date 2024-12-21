@@ -1,0 +1,21 @@
+This video explains the "SMT Divergence" trading strategy, which uses correlated currency pairs (e.g., NAS 100 and S&P 500, Bitcoin and Ethereum, EURUSD and DXY) to identify trading opportunities.
+
+**The Core Strategy:**
+
+The strategy identifies divergence between two correlated pairs.  If one pair makes a higher high (or lower low), but the correlated pair fails to do so, this signifies a "liquidity sweep."  The trader then trades the pair that experienced the liquidity sweep.
+
+* **Higher High Divergence (Bearish):** One pair creates a higher high, while the correlated pair fails to create a new higher high. This suggests a bearish shift, and the trader would short the pair with the liquidity sweep (the one that failed to make a new higher high).
+
+* **Lower Low Divergence (Bullish):** One pair creates a lower low, while the correlated pair fails to create a new lower low. This suggests a bullish shift, and the trader would long the pair with the liquidity sweep (the one that failed to make a new lower low).
+
+
+**Timeframes:**
+
+* **Divergence Identification:** 15-minute, hourly, or daily charts.
+* **Entry:** Smaller timeframes (5-minute, 1-minute) are used for entry after identifying the liquidity sweep and a subsequent market structure shift or change in collector.  Intraday traders might use 15-minute, 30-minute, or hourly charts for divergence and 5-minute or 1-minute charts for entry.
+
+
+**Entry Signals:** After identifying the liquidity sweep, the trader waits for a change in market structure or a failure swing low/high (a "fairway gap" or "auto block") on a lower timeframe to enter the trade.
+
+
+**Disclaimer:** The presenter credits iCT for the strategy and mentions that a more detailed explanation will be available in an upcoming mentorship program update on December 15th (currently 35% off at $97).  The presenter emphasizes this is not their original work.

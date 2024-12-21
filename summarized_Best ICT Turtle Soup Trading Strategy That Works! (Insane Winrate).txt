@@ -1,0 +1,20 @@
+This video teaches a trading strategy for predicting London and New York session price movements with 80% accuracy.  The strategy, which the creator claims is unique, uses the Asian session range (8 PM - 2 AM New York time) as a key indicator.
+
+**Core Strategy:**
+
+1. **Identify Asian Range:** Mark the high and low of the Asian session (using the 2 AM New York time candle close to define the range's end).
+2. **Determine Bias:**
+    * If the Asian session low breaks *first*, the bias is bearish.  Then, wait for the Asian high to break.
+    * If the Asian session high breaks *first*, the bias is bullish. Then, wait for the Asian low to break.
+3. **Entry:** After establishing the bias (both high and low broken), look for:
+    * **Market Structure Shift:** A clear shift in market structure on the 15-minute timeframe after price returns to the Asian range. Enter a trade in the direction of the established bias.
+    * **Double Sweep:** If no clear market structure shift occurs, wait for price to sweep the broken Asian range low (or high) twice. Enter a trade on the retest of the range after the second sweep.
+4. **Target:**  The target is the previous swing high (for short trades) or swing low (for long trades) from before the Asian session breakouts.
+
+**Timeframe:** The entire strategy is based on the 15-minute timeframe.
+
+**Recommended Assets:** The strategy is best suited for indices (like NASDAQ 100, US 30, S&P 500), but it can also be used on forex and gold.
+
+**Indicator:** The creator uses an indicator called "FXN Asian Session Range" (labels and lines disabled).
+
+The creator emphasizes that this information is being shared for free despite initially being intended for a paid course.  They also warn viewers with short attention spans that trading isn't for them.

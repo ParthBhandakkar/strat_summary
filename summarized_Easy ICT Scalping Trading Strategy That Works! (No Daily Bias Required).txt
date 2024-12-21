@@ -1,0 +1,25 @@
+This video describes a scalping strategy for trading USD/JPY and GBP/USD currency pairs.  The core of the strategy revolves around identifying a 5-minute "turtle soup" or ABC pattern within the London and New York trading sessions ("kill zones").
+
+**Strategy:**
+
+1. **Identify the Pattern:** Look for a 5-minute ABC pattern (higher high, higher low, higher high for shorts; lower low, lower high, lower low for longs).  The entire ABC pattern must form within a single session (London or New York). The Asian session is excluded.
+
+2. **Confirmation:** The body of the C-leg candle must close above the A-leg high (for shorts) or below the A-leg low (for longs).
+
+3. **Entry:** Wait for price to retrace and close below the A-leg high (for shorts) or above the A-leg low (for longs).  Enter a trade on the retest of the A-leg high/low.
+
+4. **Position Sizing:** Take only 1-2 trades per day.  One losing trade ends the trading day.  If the first trade is a win, a second trade may be taken. Risk only 1% per trade.
+
+5. **Invalid Setups:** Avoid setups where the B-leg high or low is broken before entry.  Avoid setups with large price gaps or significant breakouts.
+
+6. **News:** Avoid trading during high-impact news events.
+
+7. **Indicator:** The video mentions using the "FXN Asian Range" indicator by Rob Minty to identify the kill zones, but it's not essential to the strategy itself.
+
+**Additional Notes:**
+
+* The win rate is estimated at 55-60%, but this can fluctuate.
+* The video emphasizes the importance of backtesting.
+* The presenter promotes a partnered prop firm called Funded Next, offering a discount code.
+
+The video provides several examples illustrating both winning and losing trades, reinforcing the idea that losses are a part of trading.

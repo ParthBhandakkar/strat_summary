@@ -1,0 +1,21 @@
+This video describes a silver bullet trading strategy for the market maker model, attributed to ICT (presumably a trader or trading educator).  The core tenets are:
+
+**Market Maker Model Identification:**
+
+* **High Time Frame Price Decision Area (PDA):** Identify a high timeframe PDA (a significant price range).
+* **Consolidation Phase:**  Locate a preceding consolidation phase before price enters the PDA. This phase represents the draw on liquidity.  This may involve equal lows or a clear consolidation period.
+* **Accumulation Phases:** Price typically moves into the PDA through one or two accumulation phases.
+* **Distribution Phases:** After price enters the PDA, it will often exhibit one or two distribution phases.
+
+**Entry Strategy ("Silver Bullet"):**
+
+* **Market Structure Shift:** Look for a market structure shift (break of structure) indicating a potential reversal. This often serves as a low-risk entry point, although not always the optimal one.
+* **Fibonacci Retracement:**  Draw a Fibonacci retracement from the high of the last swing before the consolidation to the low of the consolidation (draw on liquidity).
+* **0.5 Fibonacci Level:** Wait for price to reach the 0.5 level of this Fibonacci retracement.  This indicates a high probability (80-90%) that price will subsequently retest the low of the consolidation.
+* **Second Distribution Phase Entry:** Enter a long trade during the second distribution phase.
+* **Alternative Entry Points:** If price doesn't reach the 0.5 Fibonacci level, you can enter based on other break of structures or price action formations like mitigation blocks, auto blocks, or fair value gaps (FVGs).
+
+
+**Contextual Usage:**
+
+The strategy can be used in conjunction with other methods, such as external and internal liquidity analysis.  The presenter uses it across multiple timeframes (daily to hourly) and demonstrates examples.  While aiming for entries on the second distribution phase is optimal, it stresses that the strategy is successful even with other market structure based entry points.

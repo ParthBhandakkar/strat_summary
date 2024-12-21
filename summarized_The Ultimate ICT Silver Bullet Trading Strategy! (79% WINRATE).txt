@@ -1,0 +1,30 @@
+This video describes the "ICT Silver Bullet" trading strategy, focusing on identifying intraday bias using external and internal liquidity to improve profitability.
+
+**Core Strategy:**
+
+1. **Identify Intraday Bias:**  The strategy uses two timeframes:  a one-hour timeframe to identify external liquidity (highs or lows) and internal liquidity (unmitigated fair value gaps), and a 5-minute timeframe to confirm the bias.
+
+2. **External Liquidity Purge:** Wait for price to break through an external liquidity level (high or low) on the one-hour chart.
+
+3. **Market Structure Shift:** After the external liquidity break, switch to the 5-minute chart and wait for a market structure shift (e.g., higher high/lower low sequence) confirming the intraday bias.
+
+4. **Silver Bullet Entry:**  Enter a trade during specific "killzone" hours (London session: 3-4 AM; New York session: 10-11 AM) at any fair value gap (internal liquidity) that appears after the market structure shift.
+
+5. **Target and Stop Loss:** Target 1-2 risk/reward ratios.  Place stop-loss above the high (for long trades) or below the low (for short trades).
+
+
+**Key Concepts:**
+
+* **External Liquidity:** Highs or lows on the higher timeframe (1-hour).
+* **Internal Liquidity:** Unmitigated fair value gaps on the higher timeframe.
+* **Market Structure Shift:** A change in the direction of price action on the lower timeframe (5-minute).
+* **Killzone Hours:** Specific trading times (3-4 AM and 10-11 AM).
+
+
+**Indicators Mentioned:**
+
+* FXN Asian Session Range
+* Fractals by Rachel T
+
+
+The video emphasizes that understanding and utilizing the draw on liquidity (internal liquidity after external liquidity is broken) is crucial for the strategy's success.  The presenter repeatedly discourages using the strategy without understanding the intraday bias and draw on liquidity.  Multiple examples are provided illustrating the strategy's application.

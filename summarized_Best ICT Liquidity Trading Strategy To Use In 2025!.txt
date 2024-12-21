@@ -1,0 +1,18 @@
+This video describes a five-step ICT liquidity sweep trading strategy for use in 2025 and beyond.  The core components are:
+
+**1. Identifying Bias:**
+
+* Use two timeframes: daily and 15-minute.
+* Analyze the previous two daily candles:
+    * If the second day's candle closes above the first day's high, the bias for the third day is bullish.
+    * If the second day's candle closes below the first day's low, the bias for the third day is bearish.
+    * If the second day's candle has a rejection (doesn't close significantly above or below the first day's high/low), avoid trading that day.
+
+**2. Entry (on the 15-minute timeframe):**
+
+* Mark the opening price of the third day's candle (from the daily chart).
+* Look to the *left* of the opening price on the 15-minute chart for liquidity:
+    * **Bullish bias:** Look for sell-side liquidity to be swept. Enter after the sweep, ideally using a market structure shift or fair value gap.
+    * **Bearish bias:** Look for buy-side liquidity to be swept. Enter after the sweep, ideally using a market structure shift or fair value gap.  High probability trades occur after the 9:30 open.
+
+**The strategy emphasizes mechanical execution and using the power of "accumulation, manipulation, and distribution" to identify setups.**  The video provides multiple examples illustrating the process on charts.  The author claims high accuracy but acknowledges that it won't work 100% of the time.  The timeframe for trades is typically short (1-2 or 1-3 price points).

@@ -1,0 +1,13 @@
+This video describes a Forex trading strategy the presenter calls "ATM," claiming it consistently generates profits.  The strategy focuses on the GBPUSD, USDGBP, and AUDUSD pairs, using a New York time frame.
+
+**Core Strategy:**
+
+1. **Identify Midnight Open (12 AM NY Time) and 8:30 AM NY Time opens.**
+2. **Before 8:30 AM NY Time:** Identify the daily high and low.  The presenter recommends switching to a 1-minute timeframe at 8:29 AM to precisely mark these levels.
+3. **After 8:30 AM NY Time:** Look for a "sweep" of the daily high or low (price moves beyond and then retraces from it).
+4. **Entry:** Take your entry on the first market structure shift *after* the sweep, ideally with a fair value gap preceding the shift.
+5. **Stop Loss:** Place your stop loss above (for long) or below (for short) the high/low of the market structure shift.
+6. **Target:** Aim for a risk-reward ratio of at least 1:2. Identify the closest resistance/support level.
+7. **Timing:** Trade only between 8:30 AM and 11:30 AM NY Time, closing all positions before 12 PM.  The presenter suggests considering whether the price is above or below the midnight open to potentially bias long or short entries.
+
+The presenter emphasizes the importance of identifying a market structure shift with a preceding fair value gap, stating these elements alongside the sweep confirm a high-probability trade setup.  Two examples of trades using this strategy are provided in the text.  The presenter also mentions the concept of "daily bias" as a potential enhancement, but states it is not required for the strategy to be profitable.  A paid course offering further strategies and a trading community is promoted.

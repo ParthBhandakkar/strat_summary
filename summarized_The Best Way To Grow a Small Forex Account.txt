@@ -1,0 +1,32 @@
+This video provides a guide on growing a small Forex account.  The key steps are:
+
+**1. Finding a Profitable Strategy:**
+
+*   Backtest a trading system at least 100 times to identify a profitable "edge."  Free strategies are available on the YouTuber's channel.
+
+**2. Demo Account Practice:**
+
+*   Trade on a demo account for at least two weeks to gain experience and familiarize yourself with market dynamics (candlestick patterns, consolidation vs. trending markets).
+
+**3. Live Trading (Small Account):**
+
+*   Start with a small account ($100-$1000).
+*   **Risk Management:** Risk 10% per trade initially.  Aim for 1:2 or 1:3 risk-reward ratios (e.g., risk $10 to potentially earn $20-$30).
+*   **Trade Selection:**
+    *   Trade during key market hours (avoid high spreads outside these times).
+    *   Avoid trading when the market is consolidating.
+    *   Trade on days with high-impact news (wait 10 minutes after news release).
+    *   Trade when there's a clear trend on higher timeframes (e.g., daily chart).
+    *   Take only your best setups ("A+" trades).
+*   **Trade Frequency:**  Maximum two trades per day.  Avoid revenge trading. If you win a trade, consider resting for the day.
+*   **Time Frame:** Stick to the 15-minute time frame.
+*   **Account Growth:** Gradually decrease risk percentage (from 10% to 5%) as your account grows to $600-$700.
+
+**4. Mindset:**
+
+*   Treat Forex trading like a video game, progressing through levels.
+*   Remain emotionless and avoid overtrading.
+*   Only use money you can afford to lose.
+
+
+The YouTuber emphasizes that this process requires effort and patience; there are no shortcuts.

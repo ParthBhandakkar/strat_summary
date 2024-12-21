@@ -1,0 +1,26 @@
+This video teaches an SMT divergence trading strategy, enhanced by combining it with other techniques for increased win rate.  Key aspects include:
+
+**SMT Divergence Strategy:**
+
+*   Identifies divergence between two or three correlating pairs (e.g., EURUSD and DXY).
+*   Looks for a liquidity sweep on one pair (higher high/low, failing to make another higher high/low) and an autoflow shift on another (failure to create a new higher high/low).
+*   Enters after a market structure shift, using a technique called "fraybolegav and kaboom" (details not fully explained).  A previous video on SMT divergence is referenced.
+
+**ABC Trading Strategy:**
+
+*   Identifies ABC patterns (higher high, higher low, higher high; or lower low, lower high, lower low).
+*   Enters after a market structure shift below the range of the ABC pattern.  This can be combined with SMT divergence.
+
+**Point of Interest (POI):**
+
+*   Uses POI, such as one-hour order blocks (OB) and FairbodeGap, to add confluence to trades. Combining POI with SMT divergence and ABC patterns further increases win rate.
+
+**Combining Strategies:**
+
+The video emphasizes combining SMT divergence with ABC patterns and POIs to create high-probability trades.  The speaker claims this approach significantly increases win rate, providing examples of how to combine these techniques and interpret chart patterns.  Specific examples using EURUSD and DXY are given, showing how to identify divergence, market structure shifts, and entry/exit points.  The concept of flipping the DXY chart (Alt+I keyboard shortcut) to simplify analysis is also explained.
+
+**Additional Notes:**
+
+* The speaker mentions "kill zone timings," "balanced price range (BPR)," and "market structure shifts" which are not fully explained but are key parts of the strategy.
+* The speaker offers a paid course for more detailed information, referencing ICT as the original creator of some of these concepts.
+* The speaker mentions backtesting results showing that on smaller timeframes, trading the pair that sweeps liquidity is advantageous.  On higher timeframes this is reversed.

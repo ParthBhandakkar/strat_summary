@@ -1,0 +1,18 @@
+This video describes a trading strategy that combines the ABC pattern with points of interest (POIs) like order blocks (OB), fair value gaps (FVG), and supply zones to increase win rates.
+
+**The Core Strategy:**
+
+1. **Identify a Break of Structure:** Locate a clear break in market structure (higher high/lower low).
+2. **Mark POIs:** Identify potential POIs (OB, FVG, supply zones) near the break of structure.
+3. **Wait for ABC Formation:**  Look for an ABC pattern near the identified POI.  The "C" leg of the ABC should ideally reach the POI without piercing through it.
+4. **Market Structure Shift:** Wait for a market structure shift (a change in the connector or a break of structure) *below the range* of the ABC pattern (for short trades) or *above the range* (for long trades).
+5. **Entry:** Enter the trade from the extreme of the POI (FVG, OB) after the structure shift.
+6. **Take Profit:** Target a pre-determined take profit level.
+
+**Important Considerations:**
+
+* **Entry Timing:**  Enter trades during periods of low liquidity ("kill zones").
+* **Invalid Structures:** If the price moves below (short) or above (long) the range of the ABC pattern before creating a structure, the setup is invalid.
+
+
+The video provides multiple examples illustrating the strategy's application in various market conditions and emphasizes the precision and effectiveness of this combined approach.  The presenter strongly advocates backtesting this strategy.  A course offering additional trading strategies is also promoted.

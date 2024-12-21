@@ -1,0 +1,32 @@
+This video explains ICT's market maker model, a trading strategy detailed in his latest one-hour YouTube lecture.  The model uses three timeframes (e.g., daily, hourly, 5-minute).
+
+**Steps:**
+
+1. **Identify Market Direction (Highest Timeframe):** Determine if the market is bullish or bearish using autoflow (overall trend) on the highest timeframe.
+
+2. **Identify Liquidity (Highest Timeframe):**  Locate buy-side liquidity (relative equal highs or swing highs) if bearish, or sell-side liquidity if bullish.
+
+3. **Identify Fray Valley Gap/PDR (Highest Timeframe):** Find a fray valley gap (or potential downside reversal – PDR) above the identified liquidity.  The presenter prefers fray valley gaps.
+
+4. **Identify Last Low (Highest Timeframe):** Once price enters the fray valley gap, identify the last low formed on the highest timeframe.
+
+5. **Market Maker Model Identification (Lower Timeframes):** Drop down to a lower timeframe (e.g., hourly). Look for:
+    * **Original Consolidation:** A period where price struggles to break above or below a range.
+    * **Consolidation Breakout Trade:** Enter on the retest of the consolidation's breakout.
+    * **Accumulation Phases (Optional):** Enter during accumulation phase one or two (before the fray valley gap is hit).  The presenter doesn't prefer this entry.
+    * **Market Structure Shift:** Look for a market structure shift (e.g., break of structure, consecutive bearish candles) to confirm price movement.
+
+6. **Lower Timeframe Entries (Optional):** Optionally, go to an even lower timeframe (e.g., 5-minute) to look for additional confirmation (e.g., a second market structure shift).  The presenter says this isn't necessary.
+
+7. **Optimal Entry:** The best entry is usually on the second distribution leg (a break of structure after the initial price movement into the fray valley gap).
+
+**Key Concepts:**
+
+* **Autoflow:** The overall trend of the market.
+* **Liquidity:** Areas where significant buying or selling pressure exists.
+* **Fray Valley Gap/PDR:** Gaps or price action indicating potential turning points.
+* **Original Consolidation:** A period of sideways price action.
+* **Market Structure Shift:** A change in the overall price trend, confirmed by candlestick patterns.
+* **Time is Fractal:** The same patterns and principles apply across multiple timeframes.
+
+The video includes two examples (NZDJPY and another unspecified pair) illustrating the strategy.  The presenter notes that trades won't always be perfect.  The video concludes with a promotion for the presenter's trading course.

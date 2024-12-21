@@ -1,0 +1,20 @@
+This video describes a simple trading strategy using two candlesticks.
+
+**Core Strategy:**
+
+1. **Identify Candles:** On a 4-hour or daily timeframe, identify two consecutive candles. The second candle must be entirely contained within the price range of the first candle (including wicks).
+2. **Mark High/Low:** Mark the high and low of the second candle.
+3. **Switch Timeframes:** Switch to a 5-minute (for 4-hour chart) or 1-hour (for daily chart) timeframe.
+4. **Wait for Fakeout:** Wait for price to break above the high or below the low of the marked second candle (a "fakeout").  The fakeout needs confirmation with a candle body close beyond the marked high/low; wicks are ignored.
+5. **Entry & Targets:**  Enter a trade on the retest of the broken level (after the fakeout).  Place a stop-loss just beyond the opposite extreme of the second candle and target the next significant level of liquidity (the high from the initial fakeout if you entered short, or the low if you entered long).
+
+**Key Considerations:**
+
+* **Timeframes:**  4-hour and daily timeframes are recommended.  1-hour is acceptable but not preferred.  Avoid lower timeframes.
+* **Momentum:** After the fakeout, wait for at least one or two candles showing momentum in the direction of your trade before entering.
+* **Backtesting:** The presenter strongly encourages backtesting the strategy.
+* **Stop Loss Placement:** The stop loss is placed just beyond the opposite extreme of the second candle to minimize risk.
+* **Risk/Reward:** The examples given show risk/reward ratios ranging from 1:2 to approximately 1:6.
+
+
+The presenter provides multiple examples illustrating the strategy's application on different timeframes, emphasizing the importance of patience and waiting for confirmation before entering a trade.  They also mention they might delete the video if it receives 100k views (clearly a joke).

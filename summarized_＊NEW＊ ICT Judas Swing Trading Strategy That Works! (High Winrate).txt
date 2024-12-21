@@ -1,0 +1,25 @@
+Ajit's 9:30 AM Judas Swing Trading Strategy:
+
+**Core Strategy:**
+
+* **Timeframes:** Primarily uses 15-minute and 1-minute charts.  Also mentions 2-minute and 4-hour charts for additional context and confirmation.
+* **Time:** The strategy focuses on the period between 9:30 AM and 9:45 AM for indices (8:30 AM and 8:45 AM for Forex).
+* **Initial Setup (15-minute chart):** Identify the most recent swing high and swing low before 9:30 AM.
+* **Key Condition:** Between 9:30 AM and 9:45 AM, the 15-minute candle must take out *either* the swing high or swing low.
+* **Entry (1-minute chart):**  After the high or low is taken out, look for a liquidity sweep (often shown by a market structure shift, break of structure, or Fair Value Gap (FVG)) on the 1-minute chart *before* 9:45 AM.  Enter the trade based on this liquidity sweep, targeting 1-2 R (Risk Reward).
+* **Invalidation:** If the price does not take out the high or low before 9:45 AM, the setup is invalid.  If the high is taken out after 9:45 AM, the trade is also invalid.
+
+**Advanced Techniques for Increased Win Rate:**
+
+* **4-hour Chart Analysis:** Identify the dealing range (high and low) on the 4-hour chart to determine the overall trend (bullish or bearish).  If bearish and in a discount zone, prioritize setups where the high is taken out. If bullish, prioritize the low being taken out.
+* **Double Sweep (Crucial):** Before 9:29 AM (indices), ideally both the high and low should be swept. The algorithm will use both buy-side and sell-side liquidity.
+
+
+**Important Considerations:**
+
+* **Works best with Indices:** The strategy is optimized for indices (9:30 AM open). Forex traders should adapt it to their market's open (8:30 AM).
+* **Setup Frequency:** Setups don't appear every day, but several per week are expected.
+* **Patience:** Requires patience to identify the correct setups.
+
+
+The video provides multiple examples illustrating the strategy, highlighting how to identify the swing highs and lows, the liquidity sweeps and the appropriate entry and exit points.  Emphasis is placed on understanding market structure shifts and FVGs to improve accuracy.

@@ -1,0 +1,33 @@
+This video describes three methods for identifying daily trading biases:
+
+**Method 1: Turtle Soup Method**
+
+This method uses higher highs and lows (or lower lows and highs) on a daily timeframe.
+
+1. **Identify:** Find a sequence of higher highs and lows (or lower lows and highs).
+2. **Breakout:** Wait for price to close above the most recent high (or below the most recent low).
+3. **Retest:** Wait for price to close below the previous high (or above the previous low).
+4. **Bias:** A retest confirms a bearish (or bullish) bias.  The setup is invalidated if the high (or low) is taken out before a retest occurs.
+
+**Method 2: External to Internal Liquidity**
+
+This method uses external and internal liquidity to predict price movement.
+
+1. **Identify:** Locate external liquidity (highs or lows).
+2. **Breakout:** Wait for price to break through the external liquidity on the daily timeframe.
+3. **Market Structure Shift:** Observe the one-hour timeframe for a market structure shift after the daily breakout.
+4. **Internal Liquidity:**  Target the fair value gap (internal liquidity) within the discount area (if present); otherwise, target any available fair value gap.  The setup is invalidated if the fair value gap is filled before the market structure shift.
+
+**Method 3: High/Low Method**
+
+This method uses three-candle patterns to identify swing highs or lows.
+
+1. **Identify:** Locate a three-candle pattern where the middle candle is the highest (high) or lowest (low) and the other two candles don't breach the high/low of the middle candle.
+2. **Draw on Liquidity:** Mark the high of the third candle in a low formation (or the low of the third candle in a high formation). This serves as the draw-on liquidity target.
+3. **Midnight Open:** Wait for the 12 a.m. (New York time) open.
+4. **Liquidity Purge:** Look for a liquidity purge on the 15-minute chart below (bullish bias) or above (bearish bias) the midnight open.
+5. **Market Structure Shift:** Look for a market structure shift on the 15-minute chart.
+6. **Entry:** Enter the trade based on the market structure shift, targeting the previously identified draw-on liquidity.  The trade is invalidated if the high (low) is violated before the midnight open.
+
+
+The video also mentions a paid community/mentorship program for $97 offering additional trading strategies and support.

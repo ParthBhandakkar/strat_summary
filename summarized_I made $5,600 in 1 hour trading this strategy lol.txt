@@ -1,0 +1,17 @@
+This YouTube video describes a forex trading strategy that resulted in a $6,000 profit on a NZUSD trade.  The strategy, taught in the creator's paid course, involves:
+
+**Strategy Steps:**
+
+1. **Identify Daily High and Low:** Mark the previous day's high and low on the daily chart.
+2. **Wait for Breakout:** On the next day, wait for the price to break either the daily high or low.
+3. **Shift to 1 Hour Timeframe:** After the breakout, switch to a 1-hour timeframe.
+4. **Identify Internal Range Liquidity (Fair Value Gap):** Locate a Fair Value Gap (FVG) within the current price movement on the 1-hour chart. This FVG serves as a target.
+5. **Shift to 15-Minute Timeframe:** Switch to a 15-minute timeframe.
+6. **Look for Market Structure Shift:** Identify a market structure shift on the 15-minute chart.
+7. **Entry:** Enter the trade based on the market structure shift, either at the extreme FVG or an order block.
+8. **Risk/Reward:** Aim for a 1:2 risk-to-reward ratio.
+9. **Smart Money Divergence (SMT):** Look for confirmation using Smart Money Divergence (SMT) on a related currency pair (e.g., AUDUSD for NZUSD trade).  This involves comparing whether lows (or highs) are consistently forming on both pairs. A divergence provides additional confirmation.
+10. **Trading Sessions:** Preferably trade during the London and New York sessions (unless trading AUDJPY pairs).
+
+
+The video claims a >70% win rate with this strategy if the SMT is correctly identified.  The creator offers access to their private Discord server and full course details in the video description.  They also promise to release a previously unrevealed trading model for free once their YouTube channel reaches 100,000 subscribers.

@@ -1,0 +1,28 @@
+This video describes a forex trading strategy using highs, lows, and fair value gaps (FBG).  The core strategy involves:
+
+**1. Identifying Liquidity:**
+
+* **External Range Liquidity (ERL):**  Highs and lows on a higher timeframe (daily, 4-hour, weekly, or monthly).  Taking out an ERL indicates potential movement.
+* **Internal Range Liquidity (IRL):**  Fair value gaps (primarily below the 50% Fibonacci retracement level). If no FBG is below 50%, the one above 50% becomes the target.  Price often moves to IRL after taking out ERL.
+
+**2. Timeframe Alignment:**  The strategy uses multiple timeframes for confirmation:
+
+* **Daily/1-hour/5-minute:** Common combination.
+* **4-hour/15-minute/1-minute:** Another common combination.
+* **Weekly/4-hour/15-minute:** For strength traders.
+* **Monthly/daily/1-hour:** For swing traders.
+
+**3. Confirmation and Entry:**
+
+* **Market Structure Shift (MSS):** On the lower timeframe (1-hour or 15-minute), look for an MSS confirming the bias from the higher timeframe.
+* **ABCD Continuation Pattern:** Wait for an ABCD pattern (lower low, lower high, lower low) on the lower timeframe before entering. This pattern represents a liquidity sweep.
+* **Killzone R's:** Entries on the 5-minute and 1-minute timeframes should ideally occur during London or New York Killzone R's (periods of high liquidity).
+
+**4. Target and Stop Loss:**
+
+* **Target:** The safest target is the most recent low printed on the 1-hour timeframe, though the FBG is the ultimate goal.
+* **Stop Loss:** Placement varies depending on the setup but is often placed below recent lows or around the 50% Fibonacci retracement level.
+
+**5. Examples:** Multiple examples are given showcasing trades on different currency pairs (NCT USD, CAT CHF, USD CAD, EUR GBP, GBP CHF) across various timeframes, illustrating the application of the strategy.  The examples emphasize the importance of the ABCD pattern and taking profits before the end of the trading day, especially for shorter timeframe trades.
+
+The video strongly advocates for this strategy as a complete system, claiming it's sufficient for profitable trading and dismissing the need for other trading theories.  A link to join a private Discord server with trading signals is mentioned.

@@ -1,0 +1,27 @@
+This trading strategy focuses on the London forex session (3 AM New York time).  The core mechanic involves identifying the very first "fray valley gap" (a specific type of price gap) that forms on the 15-minute timeframe during the London session.
+
+**The Strategy:**
+
+1. **Identify the Gap:** Wait for the first fray valley gap to appear on the 15-minute chart during the London session.  The presenter emphasizes the importance of this gap forming *early* in the session (ideally at or very near 3 AM New York time), and to disregard gaps forming much later.
+2. **Wait for Reversal:**  Wait for the price to reverse and close below the fray valley gap.
+3. **Entry:** Enter a trade on the retest of the gap's low. Place a stop-loss order above the bodies of the candles leading up to the gap, not above the wicks.
+4. **Target:** Aim for a 1:2 risk-reward ratio (or even 1:1 for a risk-free trade).  Targeting liquidity levels adds increased probability of success.
+
+**High-Probability Setups:**
+
+* **Liquidity Sweep:** The price sweeps through a significant liquidity level (like equal highs or lows) before the fray valley gap forms and its subsequent reversal.
+* **Key Level Interaction:** The price interacts with a key level (e.g., previous support or resistance) before the gap forms.
+
+**Low-Probability Setups:**
+
+* **Gaps Forming Late:** Fray valley gaps forming much later in the London session (e.g., the sixth hour) are less reliable.
+* **News Events:** Avoid trading during or immediately after high-impact news events; wait at least 15 minutes after news releases.
+
+**Important Considerations:**
+
+* The presenter claims this strategy has a very high win rate, though a single losing trade example is eventually found (attributed to not sweeping significant liquidity).
+* The strategy is presented as mechanical, minimizing the need for daily bias or top-down analysis.
+* It works on Forex, with other applications to be covered in later chapters.
+
+
+The presenter heavily promotes their course throughout the explanation.

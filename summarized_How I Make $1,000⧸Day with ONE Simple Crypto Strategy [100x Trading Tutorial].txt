@@ -1,0 +1,17 @@
+This video describes a crypto trading strategy aiming for $1000/day profits.  The core strategy involves:
+
+**1. Timeframe:** Trading above the 15-minute timeframe is crucial to avoid account blow-ups.
+
+**2. Identifying Ranges:** The strategy focuses on range-bound markets.  A range high is easily identified; a range low is identified by a "market structure shift" – a series of lower lows and lower highs culminating in a break of a previous lower high.
+
+**3. Entry Point:**  Once a range high and low are established, wait for price to break the range high (or low). Then, look for a market structure shift in the opposite direction, followed by a price close back *within* the original range.  Enter the trade based on consecutive bullish (or bearish) candles ("auto block") in the direction of the range break.
+
+**4. Risk Management & Take Profit:** Use Fibonacci retracement levels (from range low to range high) to determine take profit levels.
+
+*   **0.5 level:** Take 25% profit and adjust stop loss to break even.
+*   **0.79 level:** Take another 25% profit.  Consider trailing stop loss above the 0.5 level high or keeping it at break even.
+*   **1.0 level:** Final take profit, or trail stop loss further if momentum continues.
+
+**5. Invalidation:** If, *before* entering a trade, price breaks both the range high and low, the setup is invalid.  However, if price hits the 0.5 or 0.79 levels *after* entry, the risk management steps should still be followed.
+
+The video emphasizes the strategy's mechanical nature and provides multiple live trade examples to illustrate the process.  It also mentions an upcoming crypto signal service.

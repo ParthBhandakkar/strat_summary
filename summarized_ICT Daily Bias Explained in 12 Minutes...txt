@@ -1,0 +1,18 @@
+This video explains how to identify daily bias using five rules:
+
+**1. Identify Recent Liquidity Sweep:** Locate a recent significant price movement that took out existing orders (stop-loss orders).
+
+**2. Identify Resting Liquidity in Opposite Direction:** Identify potential support or resistance levels (liquidity) in the opposite direction of the liquidity sweep.  Significant highs, lows, and equal highs/lows are considered liquidity levels.
+
+**3. Mark Out Fair Value Gaps and Auto Blocks Near Current Price:**  Find areas where the price has "skipped" over (fair value gaps) and areas where the price has shown strong rejection (auto blocks).
+
+**4. Identify Premium and Discount Zones:** Using a Fibonacci retracement tool from a recent swing low to swing high, identify the 0.5 level (equilibrium – EQ).  Below the EQ is the discount zone, above is the premium zone.
+
+**5. Overall Market Structure (Optional):** Consider the broader market trend, but this is less crucial than the other four rules.
+
+**Trading Strategy:**
+
+* **Discount Zone (below EQ):** Look for long positions.
+* **Premium Zone (above EQ):** Look for short positions.
+
+The speaker emphasizes that this method doesn't guarantee 100% accuracy (expect 40-50% win rate), and traders may miss profitable opportunities.  The rules help increase win rate by focusing on probabilities.  Once price reaches a Fair Value Gap, the speaker suggests using additional trading patterns (taught elsewhere) to enter trades.

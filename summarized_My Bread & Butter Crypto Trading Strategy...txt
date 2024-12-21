@@ -1,0 +1,21 @@
+This video teaches a crypto trading strategy focusing on identifying and exploiting price ranges following market pumps or dumps.  The core strategy involves:
+
+**Identifying the Range:**
+
+* **Pump Scenario:**  After a market pump (of medium size), wait for price to consolidate into a range. This range should show at least three clear reactions (touches) at both the high and low of the range.  Wicks below the low are acceptable, but the body of the candle must not close below the range's low unless there are three reactions from that level and three from the high.
+* **Dump Scenario:** Similar to pumps, but the range forms after a market dump.
+
+**Entry and Exit:**
+
+* **Entry:** Enter a long position on a retest of the range high after the price breaks above it (pump scenario), or a short position on a retest of the range low after the price breaks below it (dump scenario). Alternatively, look for a market structure shift (e.g., autoblock) on a lower timeframe to identify an earlier entry point.
+* **Exit (Target):** Target the opposite side liquidity (the high if you entered short, and the low if you entered long). Partial profits can be taken along the way.  Supply/demand zones can also be used as profit targets.
+
+**Important Considerations:**
+
+* **Timeframes:**  The strategy works best on 15-minute, 1-hour, or daily charts.  Avoid using it on timeframes shorter than 15 minutes.
+* **Cryptocurrency Choice:** The strategy is recommended for Bitcoin, and to a lesser extent Ethereum.  Avoid altcoins due to their independent price movements.
+* **Risk Management:** Use a demo account initially.  Define your risk-reward ratio (e.g., 1:2 or 1:3).
+* **Range Validation:**  Three clear reactions at both the high and low are essential for a valid range.  A range is invalid if the price closes below the low.
+
+
+The video includes several examples to illustrate the strategy, and mentions that other strategies, such as the ABC and ABCD patterns, can also be used in conjunction.

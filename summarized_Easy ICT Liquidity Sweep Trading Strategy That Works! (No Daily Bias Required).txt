@@ -1,0 +1,26 @@
+This video describes a trading strategy using ABC patterns on a 4-hour timeframe.  The core elements are:
+
+**1. Identifying the Setup:**
+
+* **4-hour Timeframe:** Look for a completed or nearly completed ABC pattern.  A large pullback (B leg) is preferred as it indicates a significant swing high with potential liquidity around it.
+* **Liquidity Sweep:** Wait for price to break above the high of the ABC pattern (taking out liquidity).  It can move beyond the high slightly, but shouldn't extend significantly.
+
+**2. Confirmation and Entry:**
+
+* **Shift to 15-minute Timeframe:** Once the liquidity is swept on the 4-hour chart, switch to the 15-minute chart.
+* **Market Structure Break:** Identify a pre-existing market structure (e.g., a swing low) that was formed *before* the liquidity sweep on the 4-hour chart. This structure needs to break for a valid entry.  It shouldn't be created after the price touches or sweeps the liquidity level.
+* **Entry Point:**  Two options:
+    * **Closest Fair Value Gap:** Enter at the nearest fair value gap after the structure break.  Stop loss is placed at the high of the structure.
+    * **Extreme Auto Block:** (Preferred by the speaker) Enter at the extreme auto block. Stop loss is placed at the high of the structure.
+
+**3. Target and Stop Loss:**
+
+* **Stop Loss:**  Placed at the high of the structure (on the 15-minute chart).  The speaker emphasizes always placing the stop loss below the low, even if it's below the auto block.
+* **Take Profit:** The low of the B leg (on the 4-hour chart).  The speaker also suggests taking partial profits along the way.
+
+**Important Considerations:**
+
+* **Structure Validation:** The structure that breaks on the 15-minute chart must be created *before* the liquidity sweep on the 4-hour chart.
+* **Multiple Candles:** Unlike a previous strategy, multiple candles above the liquidity level on the 4-hour chart are acceptable, provided the price doesn't extend too far beyond the initial breakout.
+
+The video includes two examples demonstrating the strategy's application, with risk/reward ratios highlighted.  The speaker also mentions a mentorship opportunity for those wanting to learn more advanced trading strategies.

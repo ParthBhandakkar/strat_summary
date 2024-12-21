@@ -1,0 +1,22 @@
+This video presents a free crypto trading model called "range trading," suitable for timeframes above 15 minutes (shorter timeframes are discouraged).  The model focuses on identifying significant highs and lows to establish a trading range.
+
+**The Model:**
+
+1. **Range Identification:**  After an upward or downward push, look for a significant high (not immediately broken) and a significant low (not immediately broken). These form the range high and range low.  A significant high/low is characterized by a larger pullback than the average price action in the surrounding area and a subsequent price move in the opposite direction, indicating the high/low held.
+
+2. **Deviation/Liquidity Sweep:**  Wait for price to sweep (break) either the range high or range low. This is similar to a liquidity sweep.
+
+3. **Trade Entry:** After the sweep:
+    * **Step 1:** Price closes back into the range where the liquidity was swept.
+    * **Step 2:** A market structure shift occurs. This means the low that caused the deviation must be broken.
+    * **Step 3:** Identify a fair value gap or order block for entry.  The stop loss is placed above the range high (for long trades) or below the range low (for short trades).
+
+4. **Target:**  Use Fibonacci levels (0.5 level of the range). Hitting the 0.5 level allows for break-even. The ultimate target is the opposite side of the range (range low for long trades, range high for short trades).
+
+**Important Considerations:**
+
+* **Timeframes:**  Only use timeframes of 15 minutes or higher.
+* **Days to Avoid:**  Sunday and Monday are suggested to be avoided, Saturday is optional.
+* **Risk/Reward:**  Examples show potential for 2.9 risk-to-reward ratios.
+
+The presenter claims this is a highly profitable strategy, backed by backtesting and forward testing, and encourages viewers to subscribe to the channel.  Several examples using different cryptocurrencies are provided in the video to illustrate the model.

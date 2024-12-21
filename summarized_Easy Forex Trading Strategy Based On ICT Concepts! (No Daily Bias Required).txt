@@ -1,0 +1,24 @@
+This Forex trading strategy, based on iCT concepts, is for Forex only (not indices).  It requires setting your time zone to New York time.
+
+**The Strategy:**
+
+1. **Mark the New York Midnight Open (12 AM NY time):**  The opening price of the 12 AM candle.  Above the open suggests short setups (premium zone); below suggests long setups (discounted zone).
+
+2. **Mark the Daily High and Daily Low before 8:30 AM NY time:**  These can be marked on the 15-minute timeframe.
+
+3. **Post 8:30 AM NY time:** Look for price to sweep the daily high or low (on the 1-minute timeframe).
+
+4. **Wait for Market Structure Shift with Displacement:**  After the sweep, wait for a significant price move (with volume) that breaks the existing market structure.  This "displacement" is analogous to a large object (like an elephant) impacting a pool, creating a large splash, unlike a smaller object (like a human).
+
+5. **Entry:** Take your entry from the extreme fair value gap created by the displacement.
+
+6. **Timing:**  Trading should end before 12 PM NY time. Only one trade per day is recommended.
+
+7. **Stop Loss:** Place your stop loss at the top of the body of the first fair value gap candle or at the high.
+
+8. **Target:** Target the closest hanging fruit (nearest significant price level).
+
+**Best Performing Pairs:** EUR/USD and GBP/USD, with EUR/USD being the best.  Backtesting is recommended to find the best pairs for individual traders.  Win rate without daily bias is 55-60%, potentially reaching 70-75% with daily bias.
+
+
+**Important Note:**  If a trade is lost, do not chase the price the same day; wait until the next day.

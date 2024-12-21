@@ -1,0 +1,31 @@
+This video teaches a simplified SMC (Supply and Demand) trading strategy focusing on identifying liquidity and market structure on a single timeframe (preferably 1-hour, but 4-hour is acceptable).
+
+**Core Principles:**
+
+* **Simplicity:** Avoid overcomplicating strategies.
+* **Trend Following:** Trade in the direction of the established market structure (higher highs/higher lows or lower lows/higher highs).
+* **Liquidity Identification:**  This is crucial for success.  Look for consolidation (accumulation phase) before entering a trade after a break of structure.  This consolidation can manifest as a support/resistance level, equal highs/lows, or a clear period of sideways price action.  Avoid taking entries without this confirmation.
+* **Break of Structure (BOS):** Identify points where the price breaks a previously established swing high or low.  This signals a potential trade setup.
+* **Auto Block/Supply and Demand Zones:** These zones are potential entry points, but only valid after confirming liquidity.
+* **One Timeframe:** Stick to one timeframe (1-hour or 4-hour) for consistency.  Other timeframes can be used for confirmation.
+
+**Identifying Liquidity (Crucial):**
+
+The video emphasizes the importance of identifying genuine liquidity before entering a trade after a break of structure.  Examples of valid liquidity include:
+
+* Support/resistance levels
+* Equal highs/lows
+* Trendline support/resistance
+* Clear consolidation periods
+
+The video explicitly warns against taking entries on "fake liquidity," which is characterized by small, insignificant price action or lack of consolidation before the price revisits a Point of Interest (POI).
+
+**Trading Process Summary:**
+
+1. Identify market structure (higher highs/lows or lower lows/highs).
+2. Identify a break of structure.
+3. Look for a subsequent period of liquidity/consolidation before the price returns to the POI (Auto Block).
+4. Enter the trade if the price retraces to the POI and then reverses in the direction of the trend, confirming the validity of the liquidity.
+
+
+The video uses multiple chart examples to illustrate these concepts, showing both successful and unsuccessful trade setups based on the presence or absence of proper liquidity identification.

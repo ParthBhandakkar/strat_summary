@@ -1,0 +1,21 @@
+This video outlines a day trading strategy focusing on consistent profitability.  Key elements include:
+
+**Trading Strategy:**
+
+* **High Time Frame Trend:** Trade only in the direction of the higher timeframe trend (daily, hourly, 5-minute combination suggested).  Identify trend direction quickly (1-15 minutes).
+* **Support/Resistance Levels:** Use support levels like autofib, fibonacci retracements, gaps, and volume and balance to identify entry points when trading with the trend.  (Requires further explanation via the creator's YouTube channel).
+* **Economic Calendar:** Use the calendar to identify "accumulation," "manipulation," and "distribution" days. Trade *after* news events (8:30 AM or 9:30 AM New York time), taking advantage of the increased volatility.
+* **Killzone R's:** Trade only within the London (2 AM - 5 AM NY time) and New York (7 AM - 11:30 AM NY time) Killzone R's.  These are periods of algorithmic activity where ICT concepts are most effective.
+
+**Essential Components:**
+
+* **Backtesting and Forward Testing:**  Crucial for validating any chosen trading strategy before live trading.  Backtest extensively before live trading.
+* **Risk Management:**
+    * **Personal Account:** Risk up to 3% per trade.
+    * **Funded Account/Challenge:**  Stick to a fixed risk percentage (1-2% suggested, 1% preferred). Never increase risk after a loss. Aim for higher risk-reward ratios.
+* **Psychology:**
+    * **Realistic Expectations:** Aim for 2-5% monthly profit, not 10-15%.
+    * **Trade Discipline:** Take only 1-2 trades per day maximum. If the first trade loses, stop trading for the day. Avoid revenge trading.
+
+
+The presenter emphasizes that combining these elements with strategies found on their YouTube channel will lead to success.  They claim consistent profitability managing multiple trading accounts.  However, they acknowledge that 95% of traders lose money, highlighting the inherent difficulty of day trading.

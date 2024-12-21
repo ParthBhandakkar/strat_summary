@@ -1,0 +1,19 @@
+This video describes a forex trading strategy called "Power of Three," focusing on the Asian trading session.
+
+**The Strategy:**
+
+1. **Timeframe:** Use the 15-minute chart.
+2. **Time:**  Focus on the period between 8 PM and 10 PM New York time (ensure your trading platform is set to this timezone).
+3. **Identify High/Low:** Before 8 PM, identify the most recent high and low on the 15-minute chart.  If no recent high/low exists before 8 PM, identify a high or low formation *within* the 8 PM - 10 PM window.
+4. **The Sweep:** Between 8 PM and 10 PM, look for a price "sweep" of either the previously identified high or low.
+5. **Market Structure Shift:** Switch to a 1-minute or 2-minute timeframe after the sweep. Look for a market structure shift with a fair value gap.
+6. **Entry:** Take your trade (long or short) based on the fair value gap.
+7. **Stop Loss:** Place your stop loss just above the swing high (for long trades) or below the swing low (for short trades).
+8. **Target:** Aim for a 1:2 or 1:3 risk-reward ratio.
+
+
+**Currency Pairs:** The strategy is suggested for the following pairs: AUDJPY, CADJPY, GBPJPY, Gold, and Silver.  The trader explicitly advises *against* using USD pairs or others, as the strategy relies on the volume influx at the start of the Asian session.
+
+**Power of Three Concept:** The strategy aims to capitalize on the "power of three" market phases: accumulation, manipulation, and distribution, within a daily timeframe.  The accumulation phase typically occurs after the New York session closes (around 12:30 PM NY time).
+
+**Examples:** The video provides several chart examples illustrating the strategy's application with the recommended currency pairs.  These examples show how to identify the sweep, market structure shift, and entry points.

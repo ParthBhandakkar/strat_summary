@@ -1,0 +1,23 @@
+This YouTube video describes a forex trading strategy using external and internal liquidity.  The trader claims consistent monthly returns of 7-10%.  The core strategy involves:
+
+**Trade Setup:**
+
+1. **Daily Timeframe:** Identify external liquidity (highs/lows) and internal liquidity (valid gaps – “fairly valid gaps”).  The trader prefers trades where price moves *from* external to *internal* liquidity.
+2. **One-Hour Timeframe:** After external liquidity is taken out on the daily chart, switch to the one-hour timeframe and look for a market structure shift.  Then, look for a higher high, higher low, and then another higher high formation ("higher high, higher low, higher high"). This confirms a continuation pattern.
+3. **Liquidity Sweep:**  Wait for price to take out the higher low created in step 2. This is a powerful liquidity sweep.
+4. **Five-Minute Timeframe:**  Switch to the five-minute timeframe and look for another market structure shift.  Enter the trade during London or New York trading sessions (unless trading AUD/JPY pairs).
+
+**Trade Management:**
+
+* **Entry:** Enter the trade after the liquidity sweep on the 5-minute chart, ideally during the London or New York session, at least 10 minutes after any high-impact news event.
+* **Stop Loss:**  Not explicitly stated, but implied to be placed below the most recent swing low.
+* **Take Profit:**  The trader recommends a 1:2 risk-reward ratio, but also mentions taking profit at the original consolidation level of the market maker model.
+
+
+**Important Considerations:**
+
+* **Avoid trading during Asian sessions unless using specific Asian session sweep models.**
+* **Wait at least 10 minutes after high-impact news before entering a trade.**
+* **Invalid Liquidity Sweeps:** The trader shows an example of an invalid sweep, where a higher high is followed by a lower low and lower high – this is not a valid setup.
+
+**Disclaimer:** The video promotes a paid Discord server offering a "profome challenge" passing service with a money-back guarantee.  The trader emphasizes that the information shared in the video is the same information provided to paid students.

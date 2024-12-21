@@ -1,0 +1,23 @@
+This YouTube video presents a five-rule trading strategy claimed to achieve profitability.  The strategy uses two timeframes (e.g., 4-hour and 1-minute).
+
+**Five Rules:**
+
+1. **Identify Higher Time Frame Auto Flow (Trend):** Determine the overall trend direction on the higher timeframe.
+
+2. **Mark Out Points of Interest (POIs):** Identify POIs, preferably auto blocks (areas of prior price rejection), on the higher timeframe.
+
+3. **Wait for Price to Return to POI with a Specific Pattern:** Price must return to the POI in a "turtle soup" pattern (higher high, higher low, higher high) or an ABC pattern.
+
+4. **Wait for Market Structure Shift on Lower Time Frame:** Observe the lower timeframe for a market structure shift.  High probability shifts involve a break of structure below the "A" leg high with a "fairly gap" (a gap created *before* a market structure shift, not an "inefficiency gap"). Low probability shifts are simply breaks of structure upon price returning to the POI.
+
+5. **Market Structure Shift Must Occur During "Kill Zone R's":**  All market structure shifts and entries must happen within these unspecified time periods ("Kill Zone R's").  The presenter emphasizes the importance of timing for algorithmic trading success.
+
+**Additional Information:**
+
+* **Entry:** Entries are taken after a market structure shift and "fairly gap," aiming for targets identified based on price action.
+* **Secret Tip:**  For increased profitability, look for a break of structure *after* the initial market structure shift, before the final entry. This creates an "inverse turtle soup" pattern.
+* **Timeframe:** The examples use 15-minute and 1-minute/2-minute timeframes.
+* **Course Promotion:** The presenter promotes a course update ($97) with additional content and a new trading strategy.  However, he emphasizes that the YouTube content alone is sufficient for learning the strategy.
+
+
+The video provides two examples illustrating the strategy's application.  The presenter claims that consistent application of these rules can lead to profitability within 30-90 days, depending on the trader's experience level.  The meaning of "Kill Zone R's" is not explicitly defined.

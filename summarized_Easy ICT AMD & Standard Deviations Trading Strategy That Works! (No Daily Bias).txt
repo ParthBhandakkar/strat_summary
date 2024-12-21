@@ -1,0 +1,25 @@
+This video teaches a trading strategy using daily power of three and standard deviation projections.  The strategy, explained in detail in the speaker's upcoming course update ($97 now, increasing to $150), involves:
+
+**Core Strategy:**
+
+1. **Identify the daily candle opening price.**
+2. **Switch to a 5-minute timeframe.**
+3. **Observe price consolidation and wait for a market structure shift.**
+4. **Use Fibonacci projections (from the last low to high before the shift) to identify manipulation move end points (focus on -2, -2.5, -4 levels).**
+5. **Once the price goes above the -2 level, look for a market structure shift.** This signals the reversal and expansion of the price in its original direction.
+6. **After the market structure shift, use Fibonacci projections (from the last high to low before the shift) to identify the expansion move's target.** This involves looking for liquidity levels below -2.
+7. **Take entries from breaker blocks, fair valley gaps, or auto blocks.**  The speaker prefers auto blocks.
+8. **Set take profit targets at liquidity levels below -2.**
+
+**In short:** The strategy aims to identify and trade within the "wake" (manipulation move) of a daily candle using Fibonacci projections to define entry and exit points.
+
+
+**Examples:** The video shows three examples using USDCAD and AUDUSD, demonstrating how the strategy applies in different market conditions.  These examples show how to identify market structure shifts, manipulation moves, and expansion moves using Fibonacci projections to find entry and exit points.  Specific levels (fair valley gaps, auto blocks, etc.) are pinpointed in each example.
+
+
+**Additional Information:**
+
+* The speaker uses fractals (Rigidity indicator) to identify highs and lows.
+* The strategy is considered easy and mechanical, applicable daily to multiple currency pairs and assets.
+* The course update includes a more detailed explanation of the strategy.
+

@@ -1,0 +1,25 @@
+This video describes a trading strategy using an "inverse Fairvoli Gap" price action pattern.
+
+**The Inverse Fairvoli Gap:**
+
+* A Fairvoli Gap is a gap in price action.
+* An *inverse* Fairvoli Gap occurs when a Fairvoli Gap is violated (a candle closes beyond it):
+    * A bearish Fairvoli Gap becomes an inverse (bullish) Fairvoli Gap when a candle closes above it.
+    * A bullish Fairvoli Gap becomes an inverse (bearish) Fairvoli Gap when a candle closes below it.
+* Trades are entered on the retest of the inverse Fairvoli Gap.
+
+**Trading Strategy (after 2 AM New York time, end of Asian session):**
+
+1. **Identify Market Structure Shift:** On the 5-minute timeframe, look for a market structure shift (e.g., higher high/higher low followed by a lower low, or vice versa).
+2. **Liquidity Sweep:** Wait for price to retest and exceed the high (or low) of the previous market structure.
+3. **Inverse Fairvoli Gap Formation:** Identify the most recent Fairvoli Gap within the post-shift price action.  Wait for it to be violated (candle closes beyond it). This creates the inverse Fairvoli Gap.
+4. **Entry:** Enter a trade on the retest of the inverse Fairvoli Gap.
+5. **Risk Management:** Use a 1:1 or 1:1.5 risk-to-reward ratio.  Place stop-loss order just beyond the high (or low) of the inverse Fairvoli Gap's formation candle.
+
+**Key Considerations:**
+
+* The strategy is suggested for EUR/USD, GBP/USD, NASDAQ 100, and S&P 500.
+* Avoid setups where there's a large price reaction immediately after the Fairvoli Gap formation.  Look for a clean break.
+* The strategy has a claimed win rate above 65-70% with 1:1 risk management.
+
+The video provides multiple chart examples illustrating the strategy.

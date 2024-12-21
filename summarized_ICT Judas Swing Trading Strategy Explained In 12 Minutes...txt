@@ -1,0 +1,13 @@
+The video explains the "ICT Judas Swing" trading strategy.  The core concept is identifying a fake move (Judas swing) against the prevailing trend before a return to the original direction.
+
+**Key elements of the strategy:**
+
+* **Identify the 15-minute auto-flow (trend):**  Analyze whether the price respects bullish (bullish auto-blocks and fair value gaps/PDRs) or bearish (bearish auto-blocks and fair value gaps/PDRs) price action.
+* **Identify liquidity:** Before 8:30 AM NY time (Forex) or 9:30 AM NY time (Indices), locate sell-side liquidity if the trend is bullish, and buy-side liquidity if the trend is bearish.  Avoid insignificant, tiny pullbacks as liquidity levels.  Consider higher timeframe (e.g., 4-hour) liquidity levels for confirmation.
+* **Trading window:** Forex trading is limited to 8:30 AM - 11:30 AM NY time.
+* **Purge of liquidity:** Wait for the identified liquidity to be taken out.
+* **Market structure shift:** Switch to a 1-3 minute timeframe and look for a clean market structure shift with a favorable gap and displacement (a clear, decisive move in the intended direction).
+* **Entry:** Take your entry from the favorable gap.
+* **Target:** Target the nearest hanging fruit (liquidity level, auto-block, etc.).
+
+**Example scenarios are provided for both bullish (NAS 100) and bearish (EURUSD) situations illustrating the identification of liquidity, the wait for a clean market structure shift, and taking profits.**  The examples highlight the importance of identifying a clear displacement, not just consolidation, after the liquidity sweep.

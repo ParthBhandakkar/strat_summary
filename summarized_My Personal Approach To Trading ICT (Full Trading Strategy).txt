@@ -1,0 +1,28 @@
+This video describes a personal trading approach using ICT (presumably Intermarket Correlations and Technical analysis).  The core strategy revolves around identifying and trading price movements between external range liquidity (ERL) and internal range liquidity (IRL).
+
+**The Strategy:**
+
+1. **Identify ERL and IRL:** On the daily timeframe, identify highs and lows as ERL, and fair value gaps as IRL.
+
+2. **Establish Bias:**  A breakout of daily ERL establishes the bias (direction of the trade).
+
+3. **Lower Timeframe Confirmation:** Drop down to the 1-hour timeframe and look for a market structure shift confirming the daily bias.  Optional: Use SMT (Smart Money Techniques) for additional confluence, especially if order flow is weak.
+
+4. **ABCD Pattern Entry:** Wait for an ABCD pattern to form on the 1-hour chart (lower low, lower high, lower low, then a sweep of the lower high).  This is a high-probability liquidity sweep.  Avoid low-probability ABCD patterns.
+
+5. **5-Minute Confirmation:**  Drop to the 5-minute timeframe for final confirmation of the trade. Look for a market structure shift.
+
+6. **Entry and Target:** Enter the trade at a break of block, auto block, or fair value gap. Target a 1:2 risk-reward ratio, aiming for break-even at 1:1 or 1:1.5 before aiming for the full target.
+
+**Trading from IRL to ERL:**
+
+The strategy also applies to trades from IRL to ERL.  In this case, look for a 1-hour market structure shift confirming the move towards ERL, followed by an ABC pattern and a 5-minute confirmation. SMT is more crucial for IRL to ERL trades.
+
+**Smart Money Techniques (SMT):**  Using SMT across different indices (like NASDAQ and S&P 500) helps confirm the trade setup and filter out false breakouts.  The video suggests watching a separate video about SMT for more detail.
+
+**Win Rate:** The trader claims this strategy yields a 1:2 win rate consistently.  This is not guaranteed and requires personal testing.
+
+**Examples:**  The video provides multiple examples of the strategy applied to different assets (indices and forex).  These examples illustrate the ABCD pattern formation, market structure shifts, and entry/exit points.
+
+
+The overall tone suggests this is a highly profitable approach, but  the presenter encourages backtesting and paper trading before live trading.  A course is also mentioned as a way to learn more approaches.

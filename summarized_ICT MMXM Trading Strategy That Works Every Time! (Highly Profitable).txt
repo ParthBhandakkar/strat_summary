@@ -1,0 +1,23 @@
+This video explains a market maker model for trading.  The core concept involves identifying:
+
+1. **High Time Frame Point of Daily Range (PDR):**  A significant high or low, potentially marked by an auto block, brick block, fair body gap, or low liquidity level.
+
+2. **Original Consolidation:**  A period of price ranging on a lower timeframe (e.g., 1-hour chart if the PDR is daily).
+
+3. **Distribution (or Accumulation):**  A price movement following the consolidation, downward in a bearish context ("distribution"), upward in a bullish context ("accumulation").  Only the first distribution/accumulation phase needs to be identified.
+
+4. **Market Structure Shift:** A clear shift in price direction after the initial distribution/accumulation phase, occurring when price returns to the high timeframe PDR.  This shift signals a potential entry point.
+
+5. **Mitigation Blocks:**  Previous auto blocks or fair value gaps (on the lower timeframe) within the sell-side (bearish) or buy-side (bullish) of the curve, used to identify potential low-risk entry points.  Entries are taken when price breaks through these mitigation blocks.
+
+**Trading Strategy:**
+
+* Identify the high timeframe PDR.
+* Drop down to a lower timeframe to find the original consolidation and the first distribution/accumulation phase.
+* Wait for a market structure shift at the PDR.
+* Use mitigation blocks (old auto blocks or fair value gaps) to enter the trade.
+* Take profit at 1-3x the initial risk (or when price reaches the high of the original consolidation).
+* Avoid entering trades above the 0.5 level of the original consolidation range.
+
+
+The video provides multiple examples illustrating the model's application on different timeframes (daily, hourly, four-hour, weekly) and currency pairs (USD/CAD).  The presenter emphasizes the model's accuracy and simplicity, contrasting it with more complex approaches.

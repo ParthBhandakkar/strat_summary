@@ -1,0 +1,20 @@
+This video describes a tweeting strategy for trading indices (particularly NAS 100 and S&P 500), also applicable to forex.  The strategy involves four rules:
+
+**Rules:**
+
+1. **Mark Daily High and Low:** Identify the daily high and low after the 9:30 AM New York time open.
+
+2. **Wait for Sweep:** Wait for price to sweep or take out the daily high or low, or any liquidity.
+
+3. **Wait for Market Structure Shift:**  Observe a change of character or market structure shift on a smaller timeframe (e.g., 1-minute chart).
+
+4. **Entry at Extreme Fair Value Gap:** Enter the trade at the last fair value gap.
+
+**Trading Parameters:**
+
+* **Time Zone:** New York time.
+* **Trading Window:** 9:30 AM to 11:59 AM New York time.
+* **Stop Loss:**  Above the candle body (or slightly above the swing high for safety).
+* **Take Profit:** At clear swing lows or identified levels (risk/reward ratio of 1:10 or greater is shown in examples).  Partial profit taking is suggested at various points.
+
+The video provides three examples of the strategy applied to charts, illustrating how to identify the daily high/low, wait for the sweep and market structure shift, and place trades based on fair value gaps. The presenter also mentions the benefit of incorporating daily bias into the trading decisions (topic of a future video).  The presenter encourages viewers to backtest the strategy.

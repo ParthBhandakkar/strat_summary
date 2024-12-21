@@ -1,0 +1,23 @@
+This video describes a frayability gap trading strategy using a top-down analysis approach across three timeframes: daily, hourly, and 5-minute.
+
+**Core Strategy:**
+
+1. **Daily Timeframe:** Identify the order flow (higher highs/lows or lower highs/lows) and mark the "internal range liquidity" (IRL), which is the frayability gap, and the "external range liquidity" (ERL), which is any swing high or low.  The trade will move from IRL to ERL.
+
+2. **Hourly Timeframe:** Wait for price to reach the daily IRL.  Look for a market structure shift within the IRL.  Then look for either:
+    * **Liquidity Sweep Method (Higher Probability):**  Identify a "sell-side liquidity sweep" (for longs) showing a higher low followed by a higher high.  After the Asian or London session (or New York for USD/JPY pairs), look for a liquidity purge.
+    * **Market Structure Shift Method:**  Identify a market structure shift on the hourly chart. Mark the extreme frayability gap on this timeframe.
+
+3. **5-Minute Timeframe:** Once a signal is confirmed on the hourly chart (either liquidity sweep or market structure shift), drop to the 5-minute chart. Look for a 5-minute market structure shift.
+
+4. **Entry and Target:** Take your entry from the daily fair value gap (in the discount or from an auto-block, break a block, or unicorn model). Target the most recent hourly swing high (for longs) or low (for shorts). Alternatively, use the midpoint of a large fair value gap.  Partial profit taking can be done along the way, with the final target being the ERL identified on the daily chart.
+
+**Important Considerations:**
+
+* **Trade with the Trend:** Only take long positions in a bullish order flow and vice-versa.
+* **Time Frame Alignment:** Use daily, hourly, and 5-minute charts.
+* **Market Structure Shifts:** Crucial for confirmation on hourly and 5-minute charts.
+* **Liquidity Sweeps:** High probability entry method.
+* **Auto-blocks:**  Consider using auto-blocks for entry points.
+
+The video includes several examples illustrating the strategy on different currency pairs (NCT/USD, CAD/JPY, EUR/USD).  The video also promotes a forex brokerage called "Blue Guardian Proof".

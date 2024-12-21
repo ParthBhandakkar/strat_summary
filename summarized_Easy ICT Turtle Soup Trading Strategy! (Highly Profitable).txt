@@ -1,0 +1,24 @@
+This video teaches the "ICT turtle soup" pattern in forex trading and a strategy using it.
+
+**The Turtle Soup Pattern:**  A liquidity sweep of a previous high (continuation) or low (reversal).  It can be an ABC or ABCD pattern.  Using the pattern without context is unreliable.
+
+**Trading Strategy:**
+
+1. **Identify Higher Timeframe Autoflow:** Use a higher timeframe (e.g., 4-hour) to determine the overall trend (bullish or bearish autoflow).  Autoflow is when price consistently respects bullish fare value gaps or bullish autoblocks (for bullish autoflow).
+
+2. **Mark Points of Interest (POIs):** On the higher timeframe, mark all POIs (fare value gaps and autoblocks).  Do *not* enter trades from the initial leg (A, B, C) of the turtle soup pattern.
+
+3. **Lower Timeframe Entry:** Switch to a lower timeframe (e.g., 15-minute). Look for a *reversal* turtle soup pattern on the lower timeframe when the price returns to a higher timeframe POI (e.g., a 4-hour autoblock). This reversal pattern would be the opposite of the higher timeframe's trend.
+
+4. **Market Structure Shift:**  Take your entry when a market structure shift occurs on the lower timeframe within the Kills On Hours (2-6 AM and 7-11:30 AM New York time, set your chart to UTC for New York).  This shift confirms the reversal. The entry can be at a breaker block, free body gap, or a small structure within the reversal pattern.
+
+**Examples:** The video gives two examples, one on USDCAD (bearish autoflow) and one on AUDUSD (bullish autoflow), demonstrating how the strategy works.  In both, the higher timeframe showed a turtle soup pattern and a POI. The lower timeframe confirmed the reversal with a turtle soup pattern and market structure shift, resulting in profitable trades.
+
+**Important Notes:**
+
+* The strategy involves two timeframes.  While 4-hour and 15-minute are used as examples, other combinations are possible (but not recommended to go below 1-hour).
+* Market structure shifts must occur during the Kills On Hours for optimal results.
+* The trader doesn't necessarily enter at the initial POI on the higher timeframe, but rather waits for a confirmation of reversal on the lower timeframe.
+
+
+The video creator also mentions an optional paid course and community for further learning.

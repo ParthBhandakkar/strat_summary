@@ -1,0 +1,9 @@
+This text describes a live trade on the NASDAQ 100 (NAS 100) index.  The trader uses an "under-over pattern" (explained in their mentorship) and identifies liquidity levels to determine entry and exit points.  Key elements of the trade include:
+
+* **Strategy:**  The trader utilizes an "under-over pattern,"  looks for market structure shifts, and identifies liquidity zones. A 9:30 AM trading strategy is also mentioned, but details are lacking.
+* **Entry:**  Entry was taken near a February gap, after a market structure shift and sweep of the daily low.  The stop loss was placed below the candle body.
+* **Target:** The target was a liquidity level, aiming for a 1:1 to 2:1 risk-reward ratio. This was achieved in the trade.
+* **Outcome:** The trade was successful, hitting the take-profit level. The trader mentions they also made other trades that day, including one loss and two winners, all relatively small trades.  This live trade was not executed on their main account.
+
+
+The trader emphasizes that the trade is for demonstration purposes.  They recommend watching their video on the 9:30 AM trading strategy for further details.

@@ -1,0 +1,13 @@
+This video describes a trading model using five key elements:
+
+1. **Identifying Bias:**  The trader determines market direction (bullish or bearish) by analyzing equal highs/lows on various timeframes (daily, 4-hour, 1-hour, 15-minute).  Preference is given to higher timeframes; if no clear bias is found on a higher timeframe, the trader moves to lower ones. The "external to internal liquidity method" is also mentioned as a way to identify bias.
+
+2. **Lower Timeframe Draw on Liquidity:** This refers to identifying price levels (equal highs/lows) acting as support or resistance on the 5-minute chart, representing areas where liquidity is concentrated.  These levels serve as targets for trades.
+
+3. **Opposite Side Liquidity Sweep:** Before entering a trade, the trader looks for a price movement in the opposite direction of their established bias (e.g., a brief upward movement before a bearish trade). This confirms the potential for a reversal.
+
+4. **Entry Model (Inverse Fair Valley Gap):** The entry signal is an "inverse fair valley gap"—a gap that forms between candles, which then gets "closed" by price moving in the opposite direction.  Multiple fair valley gaps might need to be closed before entry. The trader also mentions that if the closest liquidity level is swept before their entry, the setup becomes less reliable.
+
+5. **Risk Management:** Trades use a 1:1 risk-reward ratio. 40% of the position is closed at the break-even point (1:1), with the remainder held until the 5-minute equal highs/lows are hit.
+
+The model is primarily used on the 1-minute timeframe, trading after the 9:30 AM (New York time) market open.  The trader emphasizes the importance of practice and experience in applying this model.  The video includes several examples of trades using this model, illustrating how the trader identifies bias, liquidity levels, and entry/exit points.

@@ -1,0 +1,20 @@
+This video describes a scalping trading strategy using the 5-minute timeframe, focusing on the London (3-6 AM New York time) and New York sessions.  The strategy involves identifying an "ABC" pattern (higher high, higher low, higher high, or the reverse).
+
+**Core Rules:**
+
+* **Maximum two trades per day:** One losing trade ends the day's trading.  A winning first trade allows a second trade.
+* **Fixed 1:2 risk-to-reward ratio:**  Break even at a 1:1 ratio.
+* **Trade only fresh market structure:** The "A" leg must not originate from the Asian session or market break.
+* **Entry:** Take the entry on a retest of the "A" leg high or low after the "C" leg closes above the "A" leg high (or below the "A" leg low).
+
+**Invalidation Rules:**
+
+* **Fibonacci Retracement (-0.5 level):** If the "C" leg hits the -0.5 Fibonacci retracement level (calculated from the "B" leg low to the "A" leg high), the setup is invalid.
+* **OTE (0.705) Level:** If the price hits the 0.705 Fibonacci extension level (calculated from the "B" leg low to the "C" leg high) before entry, the setup is invalid.  The 0.618 level can also be used as a more conservative invalidation point.
+
+**Additional Notes:**
+
+* The strategy uses fractals to identify highs and lows.
+* Avoid trading during high-impact news events, or wait 10-15 minutes after the event.
+* The presenter claims significant profitability (2% profit in 11 days for phase one, 7 days for phase two, and a further 2% on a live account).  This is anecdotal and not guaranteed.
+* A paid community offering additional resources and support is promoted.

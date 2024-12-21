@@ -1,0 +1,11 @@
+This video describes a profitable $2000 trade executed in approximately 3 minutes.  The trader used a multi-timeframe analysis approach:
+
+* **High Timeframes (Daily and Hourly):** Identified a bearish bias based on a swept major daily high, a valley gap (external range liquidity), and internal range liquidity.  Observed market structure shifts, equal highs and lows confirming the bearish bias.
+
+* **Lower Timeframes (5-minute and 1-minute):**  On the 5-minute chart, the trader noted the opening price ($930) and identified minor sell-side liquidity as a potential target.  The 1-minute chart provided the entry point.  The trader waited for the following confluence of factors:
+    * Price action within a volume imbalance.
+    * Accumulated orders during the London session followed by distribution to the downside.
+    * SMT divergence with e-mini S&P within a PDRA (presumably a price-driven range area).
+    * Reversal of a "farewell gap."
+
+The trade was executed when all these conditions were met, resulting in a quick profit.  The trader emphasizes the importance of building a trade story based on a multi-timeframe analysis rather than forcing trades and the ability to trade profitably even during potentially volatile periods like news events (referencing an election example).

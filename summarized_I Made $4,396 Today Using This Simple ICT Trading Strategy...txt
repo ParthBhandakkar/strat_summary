@@ -1,0 +1,27 @@
+This text describes a forex trading strategy and promotes a trading course and a forex funding provider.  Here's a breakdown of the key information:
+
+**Trading Strategy:**
+
+* **Core Principle:**  The strategy revolves around identifying and trading from "internal range liquidity" (fair-value gaps) to "external range liquidity" (highs and lows).
+* **Time Frame Approach:** The trader uses multiple time frames:
+    * **Daily:** Identifies the internal range liquidity (fair-value gap or "Ferrari gap").
+    * **1-hour:** Looks for a market structure shift (lower low, lower high, lower low formation) confirming the daily gap's validity.  A "bicep liquidity purge" is also a desirable confirmation.
+    * **5-minute:**  After the 1-hour confirmation, the trader looks for another market structure shift and enters the trade from a 5-minute "Ferrari gap" or "auto-blog" within the premium level.
+* **Entry and Exit:** Entry is taken after multiple confirmations across timeframes.  The exit targets a pre-determined risk/reward ratio (1:2), often aligning with significant price levels like the extreme target (a relevant equal low).
+
+**Trading Course:**
+
+* **Offered through a private Discord server:** Provides signals, market analysis, weekly Q&A, market forecasts, and strategies.
+* **Curriculum:**  Covers ICT basics (Ferrari gaps, auto-blogs, liquidity), no-daily-bar strategies, ICT essentials (SMT divergences, breaker blogs, volume and balances, entry patterns, Asian session strategies), and advanced strategies (market maker models, risk management, silver bullet strategies).
+* **Cost:**  The author claims it is a more affordable alternative to expensive trading gurus.
+
+**Forex Funding Provider Promotion:**
+
+* **Company:** Blue Guardian is heavily promoted as a reliable and high-quality forex funding provider.
+* **Benefits:** 85% profit split, low spreads, positive reviews, rapid evaluation program (only phase one needed for funding).
+* **Discount Code:** "fast-smc" for a 10% discount.
+
+
+**Trade Example (NZUSD):**
+
+The author provides a specific example of a trade on NZUSD illustrating the application of their strategy. The details involve identifying the internal and external liquidity, the market structure shifts on multiple timeframes, and the final entry and exit points resulting in a profitable trade with a 1:2 risk-reward ratio.

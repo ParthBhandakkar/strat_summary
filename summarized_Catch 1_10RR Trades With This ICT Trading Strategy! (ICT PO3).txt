@@ -1,0 +1,20 @@
+This video details a "Power of 3" trading strategy aiming for significant price movements (1:10 to 1:12 ratios).  The strategy focuses on daily candles and uses a 5-minute timeframe for entry signals.
+
+**Core Strategy:**
+
+1. **Identify the Daily Open:** Mark the opening price of the daily candle.
+2. **Accumulation Phase:** Observe price action after the open. Look for a market structure shift within this accumulation phase (a clear high and low before the shift).
+3. **Manipulation Phase Measurement:**  Use standard deviation projections (Fibonacci settings provided in the video – details not extracted here) from the last high to the last low before the market structure shift. Wait for price to reach the -2.0 to -2.5 standard deviation level. This signifies the end of the manipulation phase.
+4. **Entry Signal:** Look for a market structure shift on the 5-minute chart once the price hits the -2.0 to -2.5 standard deviation level. This confirms the end of manipulation and the start of distribution.  Enter a short position (as described in examples) when this occurs.
+5. **Distribution Phase (Target):**  The length of the distribution phase can be mirrored using Fibonacci projections from the last low to the last high before the market structure shift.  The distribution can sometimes extend beyond -2.5, even to -4, depending on higher timeframe liquidity.
+6. **Risk Management:** Stop loss placement is crucial, considering factors like potential gaps and the specific timeframe (5-minute in this case). The examples show stop-loss placement based on identifying support/resistance levels and potential gap fills.
+
+**Important Notes:**
+
+* The strategy is not guaranteed to be profitable every day; losses are expected.
+* The video provides multiple examples on GBPJPY pairs demonstrating the strategy's application and potential outcomes, both successful and unsuccessful trades.  These examples show the iterative nature of finding the correct market structure shift and waiting for the price to reach the defined standard deviation level before entry.
+*  Intra-day accumulation, manipulation, and distribution phases also exist within the larger daily cycle.
+* The video offers a free course and community access.
+
+
+The speaker claims this strategy, if applied correctly, can lead to substantial profits, even funding accounts for trading challenges.  However, viewers are cautioned about the inherent risks and the possibility of losses.

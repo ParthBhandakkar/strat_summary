@@ -1,0 +1,23 @@
+This trading strategy, called the "Monday Range" strategy, focuses on trading the price action on Tuesday based on Monday's price range.  Here's how it works:
+
+**1. Identifying the Monday Range:**
+
+* On a daily timeframe, identify the high and low of the Monday candle after it closes. This forms the "Monday Range."
+
+**2. Tuesday's Trading Plan:**
+
+* **Switch to a 15-minute timeframe.**
+* **Wait for a breakout:**  On Tuesday, wait for price to break either the Monday high or the Monday low.
+* **Look for confirmation:** After the breakout, look for a market structure shift (e.g., a change in the direction of the trend) and acceptance back within the Monday range.
+* **Entry:** Enter a trade based on the chosen timeframe (15 minutes) using a fractal valley gap, break of a block, or auto-block. The author prefers fractal valley gaps.
+* **Stop Loss:** Place the stop loss just above the high (if shorting) or just below the low (if longing).
+* **Take Profit:** Target the opposite end of the Monday range.  Consider taking partial profits at the 50% level of the Monday range to lock in some gains.
+
+**3. Additional Considerations:**
+
+* **Skip the trade if:** Price moves significantly beyond the initial breakout, demonstrating a strong trend against the intended trade.
+* **Enhance probabilities:** Use SMT divergence analysis for increased accuracy.
+* **Best Currency Pairs:** The strategy is recommended for BTCUSDT, EURUSD, GBPUSD, AUDUSD, and Gold (XAUUSD).  Trading other pairs is discouraged.
+
+
+The strategy emphasizes using the 15-minute chart for entry and exit points while basing the range on the daily chart's Monday candle.  The author provides multiple examples to illustrate the method's application.

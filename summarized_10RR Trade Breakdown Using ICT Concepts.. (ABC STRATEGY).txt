@@ -1,0 +1,8 @@
+This YouTube video showcases a profitable trading strategy called "ABC strategy," which the creator uses but did not execute the examples shown in December due to a self-imposed trading break.  The strategy involves identifying A, B, and C legs in price action, waiting for a market structure shift, entering at an extreme low ("Florida gap"), and targeting specific profit levels.
+
+Two live trades are analyzed:
+
+* **Trade 1 (Rescruelwald):** A 9.68 (almost 10) risk-reward trade on an unspecified pair, exhibiting a liquidity sweep and an auto-block entry.
+* **Trade 2 (AUD/USD):** A 7.85 risk-reward trade, again utilizing a liquidity sweep and auto-block entry.
+
+The creator claims this strategy has been profitable every month since 2018 (though not every week), and encourages viewers to backtest it and adapt it to their preferences.  They mention additional confluences (like volume indicators) that can be added to increase win rate, which are covered in their course.  The video emphasizes the strategy's power but stresses the importance of demo trading, risk management, and understanding that losing trades are inevitable.  The creator plans to share backtesting results in their course.

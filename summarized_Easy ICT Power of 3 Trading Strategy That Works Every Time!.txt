@@ -1,0 +1,19 @@
+This YouTube video teaches a trading strategy combining three core concepts:  **Power of Three (PO3), Standard Deviation projections, and Quarterly Theory.**
+
+**Power of Three (PO3):**  This involves identifying three phases in price action: accumulation, manipulation, and expansion.  The strategy focuses on identifying the end of the manipulation phase to enter a trade during the expansion phase.  PO3 can be applied to daily, weekly, or monthly charts.
+
+**Standard Deviation:** Used to measure the manipulation and expansion phases within the PO3 framework.  Reversals often occur between the -2 and -2.5 standard deviation levels.  The video suggests using Fibonacci retracements from the high to low of the accumulation phase to project these levels. A market structure shift on a lower timeframe (e.g., 5-minute chart) confirms the end of manipulation and the start of expansion.
+
+**Quarterly Theory:** An optional component that divides time into quarters (3, 6, 9, 12 months) and further subdivisions, each with potential accumulation, manipulation, distribution, and continuation phases.  Using this with standard deviation projections increases the chances of identifying profitable reversals at the -2 to -2.5 standard deviation levels during the manipulation phase of a quarter.
+
+**Trading the Strategy:**
+
+1. **Identify the accumulation phase** within a PO3 cycle.
+2. **Look for a market structure shift** to signal the beginning of the manipulation phase.
+3. **Use Fibonacci retracements** from the high to low of the accumulation phase to project the -2 and -2.5 standard deviation levels.
+4. **Monitor for price reaching these levels**, confirming the end of manipulation with a market structure shift on a lower timeframe.
+5. **Enter a trade at the beginning of the expansion phase** (potential entries are suggested like auto-blocks or valley gaps).
+6. **Use Fibonacci projections** from the low of the manipulation phase to the high of the expansion phase for take-profit levels.
+7. **Quarterly Theory (optional):**  Use this to further refine timing and enhance the probability of a successful trade based on where price lies in the quarterly cycle.
+
+The video includes several examples using USD/CAD, EUR/USD, and GBP/USD, illustrating the strategy's application and results.  The creator gives credit to Dexter Trader (for the standard deviation application) and DAYEE Die (for the quarterly theory).  The video also promotes the creator's paid course and Discord server.

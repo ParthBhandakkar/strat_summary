@@ -1,0 +1,27 @@
+This YouTube video teaches a trading strategy called "Power of 3," focusing on identifying market bias and taking advantage of price movements.  The core concepts are:
+
+**Identifying Bias:**
+
+* **Three-Candle Pattern:** Uses two candles to determine the bias for the third.  If the second candle closes above the first candle's high, the bias is bullish; if below the first candle's low, it's bearish.
+* **Timeframes:** Uses weekly and daily timeframes to determine bias. Weekly is for larger, higher-risk trades; daily is for smaller, more consistent trades.
+
+**Trading the Power of 3:**
+
+* **Weekly Timeframe:**
+    * Identify the opening price of the third candle.
+    * Drop down to the 4-hour timeframe.
+    * Look for a "sweep" of sell-side (bullish bias) or buy-side (bearish bias) liquidity to the left of the opening price.
+    * Go to the 15-minute timeframe to find a market structure shift for entry.
+
+* **Daily Timeframe:**
+    * Similar process as weekly, but uses the 1-hour timeframe for liquidity identification and the 5-minute timeframe for entry.
+    * Avoid "farics" (presumably referring to specific chart patterns) on the daily timeframe.
+
+**Key Considerations:**
+
+* **Risk-Reward:** The strategy aims for high risk-reward trades (1:5 or even 1:10).
+* **Practice:**  The instructor emphasizes the importance of 60 days of practice to master the strategy.
+* **Bias is Crucial:**  The instructor stresses the importance of identifying bias to avoid being "faked out" by manipulation moves.
+* **Market Structure:** Entry is confirmed by a market structure shift on lower timeframes.
+
+The video includes multiple examples illustrating how to apply the strategy to different currency pairs (e.g., USDCAD) on both weekly and daily timeframes.  The instructor also promotes a paid crypto signal service.

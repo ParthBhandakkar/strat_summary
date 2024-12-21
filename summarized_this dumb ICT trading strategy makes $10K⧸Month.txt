@@ -1,0 +1,21 @@
+This video describes a forex trading strategy aiming for $10,000 monthly profit with a $100,000-$200,000 account.  The core strategy focuses on the Asian trading session (8 PM - 2 AM New York time) on 5-minute charts for USD/JPY, GBP/USD, and EUR/GBP only.
+
+**The Strategy:**
+
+1. **Identify Asian Session Range:**  Determine the high and low of the Asian session.
+2. **Manipulation Phase (2 AM - 3 AM):** Look for price to break either the Asian session high or low. This is crucial; without this "judo swing" the trade is invalid.
+3. **Market Structure Shift with Displacement:** After the manipulation, identify a market structure shift (e.g., a swing high or low reversal) accompanied by a fair value gap (FVG).
+4. **Entry:** Enter a trade from the FVG or an auto-block (if present and preferable).
+5. **Target:** The opposite end of the Asian session range (Asian high if you entered short, Asian low if long).
+6. **Risk Management:**  Move to break-even at 50% of the Asian session range and consider taking partial profits.
+
+**Important Considerations:**
+
+* **Time Zone:** Set your chart to New York time.
+* **No other pairs:** Only trade USD/JPY, GBP/USD, and EUR/GBP.
+* **News Events:** Avoid trading immediately around news events (wait 5-10 minutes).
+* **Invalid Setup:** If the Asian high is broken without a prior entry setup, the trade is invalid.
+* **Wicks:** Wicks (candle wicks) that break above a previous structure are also considered market structure shifts.
+* **Daily Bias (Optional):** A secondary method is described to determine daily bias by observing previous candle closes.  Breaking and closing below a bearish candle suggests further bearish movement.  The opposite is true for bullish candles.
+
+The presenter claims this strategy often yields 1:5 or 1:6 risk/reward ratios but emphasizes that $10,000 monthly profits are not guaranteed every month.  He strongly encourages backtesting and forward testing before implementing the strategy.

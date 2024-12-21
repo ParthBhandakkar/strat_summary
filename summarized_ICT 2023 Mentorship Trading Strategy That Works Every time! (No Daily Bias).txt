@@ -1,0 +1,25 @@
+This video describes an ICT-based trading strategy claiming profitability within 90 days.  The core rules are:
+
+**Timing and Chart Setup:**
+
+* **9:50 AM New York Time:** Open charts (5-minute timeframe). Identify the recent high and low of the price action.  If unclear, wait until 9:55 AM.  Ignore previous price action.
+* **Entry Time:** Between 10:00 AM and 11:00 AM New York Time.  Do not enter trades after 10:50 AM.
+
+**Trade Execution:**
+
+1. **Liquidity Sweep:** After marking the high and low, look for price to break above the high (long) or below the low (short) – a liquidity sweep.
+2. **Timeframe Change:** Switch to a 1-minute timeframe.
+3. **Market Structure Shift:** Look for a clear shift in market structure after the liquidity sweep.
+4. **Fair Value Gap (FVG):** Identify a fair value gap. Enter a trade at the FVG.  If no FVG is apparent, consider entry near other support/resistance levels.
+5. **Stop Loss:** Place the stop-loss order just above (long) or below (short) the recent high or low.
+6. **Take Profit:** Target the initial liquidity level.  Other options include targeting subsequent FVGs or using a 1:2 risk/reward ratio.
+
+
+**Important Considerations:**
+
+* **Instruments:** The strategy is primarily recommended for indices (like NASDAQ 100 and S&P 500), although it may work with USD pairs.
+* **Backtesting:**  The presenter strongly encourages backtesting the strategy before live trading.
+* **Risk/Reward:** While aiming for 1:5 risk/reward is ideal, trades may yield varying results (sometimes as low as 1:2).
+* **Win Rate:**  The presenter claims a 65% win rate based on backtesting.
+
+The video includes multiple examples illustrating the strategy's application, emphasizing a mechanical approach, and minimizing reliance on daily bias.  However, it also notes that trade management is not explicitly defined, and the presenter encourages joining a community for additional learning and advanced strategies.

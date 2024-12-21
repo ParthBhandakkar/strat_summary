@@ -1,0 +1,18 @@
+This YouTube video describes a supply and demand forex trading strategy using a one-hour timeframe.  The key elements are:
+
+**1. Identifying Order Flow:**  Quickly (within 5 seconds) determine the overall trend direction upon opening the chart. If uncertain, move to another pair.
+
+**2. Break of Structure:** Look for a break in the established trend (higher high/higher low for bullish, lower high/lower low for bearish).
+
+**3. Identifying the Demand/Supply Zone:** In a bullish trend, identify the first candle of a significant "Fair Valley gap" (imbalance) after the break of structure; this marks the demand zone.  In a bearish trend, this marks the supply zone.
+
+**4. Inducement:** Before price reaches the demand/supply zone, look for a "fake move" in the opposite direction creating a significant low (bullish) or high (bearish) near the zone.  This acts as a liquidity level.
+
+**5. Trading Window:**  Trade only within the London and New York sessions (2 AM - 11:30 AM New York time).  Exceptions may be made for JPY or AUD pairs.
+
+**6. Three-Pin Bar Pattern Entry:** Once price enters the POI (Point of Interest – demand/supply zone), wait for a three-pin bar pattern.  Enter a buy (bullish) or sell (bearish) stop order when the high of the second candle (bullish) or the low of the second candle (bearish) is broken.
+
+**7. Stop Loss and Take Profit:** Place the stop loss below the low (bullish) or above the high (bearish) of the pin bar pattern’s lowest/highest candle.  Target 1-3 Risk/Reward ratios, aiming for external or internal liquidity levels.
+
+
+The strategy emphasizes speed and simplicity, focusing on one timeframe and clear visual cues rather than complex indicators.  The presenter claims this strategy is tested and profitable.  Multiple examples are given using GBPUSD, GBPJPY, and EURAUD pairs to illustrate the setup.

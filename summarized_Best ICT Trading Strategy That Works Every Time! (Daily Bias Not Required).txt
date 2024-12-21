@@ -1,0 +1,18 @@
+This video teaches an ICT/SMC trading strategy focusing on ABC and ABCD patterns.  The core strategy involves:
+
+**1. Identifying the Setup:**
+
+* **Higher Time Frame (e.g., 1-hour):** Find an ABC (or ABCD) pattern with a market structure shift below the high of the A leg.
+* **Lower Time Frame (e.g., 15-minute):** After the higher timeframe market structure shift, drop down to a lower timeframe. Look for a break of structure after a change of character (or another market structure shift).  Identify the first candle of the "free value gap" (or auto block) as a potential entry point.
+
+**2. Entry:**
+
+* **Risk Entry:** Enter directly when the price returns to the 15-minute Price Point of Interest (PPI).
+* **Confirmation Entry:**  Alternatively, drop down to a 1-minute timeframe and wait for a market structure shift with displacement before entering. Place the stop-loss above the 1-minute auto block, or above the high of the 15-minute break of structure.
+
+**3. Enhanced Confirmation (Optional):** Look for a turtle soup pattern or smaller timeframe ABC pattern forming before the price returns to the 15-minute PPI. This adds confirmation strength.
+
+**4. Multiple PPIs (Optional):**  Mark out additional PPIs on the higher timeframe (e.g., auto block, breaker block).  Entry can be taken when price reaches these levels, potentially combined with the lower timeframe confirmation.
+
+
+The strategy aims to increase win rate by combining higher timeframe analysis with lower timeframe confirmation entries and identifying liquidity.  The instructor emphasizes patience and practice are key to success.  The video includes a live trade example to illustrate the strategy.

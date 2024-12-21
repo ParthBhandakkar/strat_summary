@@ -1,0 +1,25 @@
+This video describes a trading strategy using a one-minute timeframe for indices and futures, specifically focusing on the US30.  The core of the strategy revolves around identifying and trading the "new day opening gap," which forms between 16:59 and 18:18.
+
+**The Strategy:**
+
+1. **Identify the New Day Opening Gap:**  Use an indicator (mentioned as one with "Luxelgo" and "OG" in the name) to mark the high and low of this gap.
+
+2. **Pre-7 PM (19:00):** Wait for price action to create both buy-side liquidity *above* the new day opening gap high and sell-side liquidity *below* the new day opening gap low.  If both are not present, the setup is invalid.
+
+3. **Trading Window (7 PM - 8 PM or 19:00 - 20:00):**  Look for price to break either the buy-side or sell-side liquidity.
+
+4. **Entry:**  After the liquidity break, wait for a market structure shift (on the one-minute chart) and then enter your trade. This confirmation can be identified from an auto block, fair value gap, etc.  Risk 0.5% of your position size initially, then add another 0.5% on another break of structure.
+
+5. **Take Profit:**
+    * **First Take Profit:**  New day opening gap (30% of your position).
+    * **Break Even/Second Take Profit:** One-to-one risk/reward ratio.
+    * **Final Take Profit:** Sell-side (or buy-side) liquidity level. Close the entire position once this level is reached.  Do not hold beyond 8 PM.
+
+**Important Considerations:**
+
+* **Time is critical:** Entries must be made between 7 PM and 8 PM.
+* **Market Structure:**  One-minute chart analysis is essential for identifying market structure shifts and confirming entry signals.
+* **Liquidity Sweeps:** Price may sweep liquidity before 7 PM. A significant pre-7 PM sweep might negate the need for another sweep after 7 PM.
+* **Practice is necessary:** The strategy requires practice to understand price action and liquidity dynamics before live trading.
+
+The video includes several examples to illustrate the strategy visually, along with instructions on using the indicator.

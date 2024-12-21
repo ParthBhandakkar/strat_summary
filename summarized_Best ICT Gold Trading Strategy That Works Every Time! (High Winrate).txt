@@ -1,0 +1,23 @@
+This video details a gold trading strategy with a high win rate, focusing on trading only once per day at a specific time.
+
+**The Strategy:**
+
+1. **Time Zone:** Set your trading platform to New York time.
+2. **Pre-Market (Before 8 PM NY Time):** Identify the most recent high and low on the 15-minute chart.
+3. **Market Entry (After 8 PM NY Time):** Wait for the price to break either the identified high or low.
+4. **Shift to 1-Minute Chart:** Once the 15-minute high or low is broken, switch to the 1-minute chart.
+5. **Identify Market Structure Shift with Displacement:** Look for a market structure shift (a clear change in trend) with a "fair value gap" (a noticeable price gap).  The speaker prefers entries based on "auto blocks" (consecutive bullish or bearish candles) rather than solely relying on the fair value gap.
+6. **Entry:** Take your entry before 10 PM NY Time, either on the close of a candle forming the market structure shift or from an auto block.
+7. **Stop Loss:** Place your stop loss below the low (or above the high, if shorting) accounting for spreads.
+8. **Take Profit:** Aim for a 1:2 risk-reward ratio (e.g., take profit at double your stop loss).  The speaker suggests closing 80-85% of the position at 1:2 and letting the rest ride for potential larger gains, but always going break even at a 1:1 ratio.
+9. **Trailing Stop:** After reaching break-even, trail your stop loss above subsequent highs (or below subsequent lows) to lock in profits.
+
+**Key Considerations:**
+
+* The strategy works best on Gold (XAUUSD), but can sometimes be applied to AUDJPY and CADJPY.
+* Only one trade per day is recommended.
+* The strategy is described as mechanical, requiring minimal daily monitoring.
+* Examples are provided in the video to illustrate the strategy.
+
+
+The strategy emphasizes careful identification of market structure shifts and uses risk management techniques (stop loss, trailing stop, partial profit taking) to maximize profitability while minimizing risk.

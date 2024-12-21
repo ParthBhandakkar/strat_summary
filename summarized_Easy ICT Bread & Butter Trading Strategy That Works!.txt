@@ -1,0 +1,15 @@
+This video describes an RCT bread and butter trading strategy using autoflow and autoblocks.  The strategy involves:
+
+**1. Identifying the Autoflow:**  Determine the overall trend (bullish or bearish) by observing if price consistently respects bullish or bearish areas (autoblocks and fray value gaps).
+
+**2. Marking PD Areas (Autoblocks):**  On the daily timeframe, identify autoblocks (consecutive bullish or bearish candles) near the price action.  The body of the candle, not the wicks, defines the autoblock.
+
+**3. Timeframes:** Trade on the daily and one-hour timeframes. Analyze autoflow on the daily chart.
+
+**4. Confirmation Entry:** When the price returns to a daily autoblock, switch to the one-hour timeframe. Look for a market structure shift (e.g., lower low/lower high followed by a higher high/higher low in a bullish autoflow, or the reverse for a bearish one) to confirm your entry.  Enter the trade from the one-hour autoblock.
+
+**5. Risk/Reward:** Use a 1:2 or 1:3 risk-to-reward ratio.  Do not move stop loss or use break-even orders; let the trade play out.
+
+**6. Indicators:** Use the Fractals indicator (Rachel T version) to identify highs and lows.
+
+The strategy aims for high-quality, infrequent trades (2-3 per week, 5-7 per month) with high consistency and profitability. The speaker claims this strategy significantly reduced their trading frequency while increasing profitability and improving their trading psychology.  A paid community offering additional strategies and content is promoted at the end.

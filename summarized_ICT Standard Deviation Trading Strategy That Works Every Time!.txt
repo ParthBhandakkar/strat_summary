@@ -1,0 +1,23 @@
+This video teaches a trading strategy using standard deviation and Fibonacci tools to determine take-profit levels.  The core concepts are:
+
+**1. Identifying Key Levels:**  The strategy begins by identifying a "key level" (e.g., point of interest, extended liquidity, PDA area, order block) where price action significantly reverses.
+
+**2. Market Structure Shift:** After price reaches the key level, a "shift in market structure" is required to confirm the trade setup.
+
+**3. Fibonacci Tool Application:** A Fibonacci tool is applied from the swing high to the swing low (or vice versa depending on the trend) preceding the key level.
+
+**4. Standard Deviation Take Profit:** The negative two (-2) level on the Fibonacci tool is crucial.  Any liquidity level below -2 becomes the take-profit target.  Alternatively, the trader can exit at the -2 level itself, but liquidity below -2 is preferred.  The -4 level is mentioned as a potential area for price rejection.
+
+**5. Time Frame Strategy:** The strategy uses two timeframes: a higher timeframe (e.g., weekly/daily) to identify the key level and external liquidity, and a lower timeframe (e.g., 4-hour/1-hour) to identify the market structure shift and entry point.  The suggested timeframe pairs are:
+
+* Swing trader: Weekly and 4-hour
+* Day trader: Daily and 1-hour
+* Scalper: 4-hour and 15-minute (minimum)
+
+**6. Liquidity Consideration:** The existence of liquidity (internal or external) below the -2 level is essential for the trade setup. If no liquidity exists below -2, the trade should be avoided.  Internal liquidity, if hit before the -2 level, may alter the take-profit target.
+
+**7. Entry & Confirmation:** Entry is taken after the market structure shift on the lower timeframe.
+
+**8. Alternative Take Profit:** If a high or low exists below the -2 level but above the initial liquidity target, that high/low becomes the new take-profit level.
+
+The video includes several examples using USD/CAD and AUD/CAD pairs to illustrate the strategy's application and also promotes a paid mentorship program.

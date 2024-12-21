@@ -1,0 +1,16 @@
+This video describes a top-down trading strategy using external and internal liquidity.  The trader determines a daily or weekly bias, then uses an economic calendar to identify high/medium impact news days for increased volatility.  Trading occurs *after* news events.
+
+**Bias Determination:**
+
+* **Daily Bias:** Traded on lower timeframes.  Confirmation involves identifying external liquidity on the daily chart, then looking for a market structure shift on the 1-hour chart, followed by a 5-minute confirmation.
+* **Weekly Bias:** Traded on higher timeframes. Confirmation involves identifying external liquidity on the weekly chart, then looking for a market structure shift on the 4-hour chart, followed by a 15-minute confirmation.
+
+**Trading Process:**
+
+1. **Identify Bias:** Using daily or weekly timeframe, determine market bias based on external and internal liquidity.
+2. **Economic Calendar:** Use to find high/medium impact news days, trading *after* the news event.  Look for price action to reach predetermined price discovery ranges (PDRA) –  buy-side liquidity purges in bearish biases, sell-side purges in bullish biases.
+3. **Time Frame Alignment:** Confirm bias across multiple timeframes (daily/1-hour/5-minute for daily bias, weekly/4-hour/15-minute for weekly bias). Look for market structure shifts to confirm directional moves.
+4. **Entry:**  Entries are taken after confirmation across multiple timeframes, often at a PDRA (e.g., fray valley gap, auto block). Optional entry patterns include ABC patterns and inducement/liquidity level pullbacks.
+5. **Risk Management:**  Break-even at a 1:1 risk-reward ratio.  Target 1:2 or 1:3 risk-reward, potentially adjusting to 1.5:1 or 2:1 for very high-confidence setups.
+
+The video includes several examples illustrating the strategy's application across different timeframes and news events.  The trader also promotes their course and Discord server offering signals and further education.

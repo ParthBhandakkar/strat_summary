@@ -1,0 +1,27 @@
+This video teaches an order flow trading strategy for Forex, crypto, and indices.  The core concept is **trading with the trend**.
+
+**The Strategy:**
+
+* **Timeframes:** Uses two timeframes.  For swing trading: daily and 1-hour charts. For intraday trading: 4-hour and 15-minute charts.  The video recommends daily and 1-hour for best setups.
+* **Identifying the Trend:**  Quickly (3-5 seconds) assess the chart's direction on the higher timeframe (daily or 4-hour).  Avoid trading if the direction is unclear or consolidating.
+* **Identifying Order Flow (Bullish Example):**
+    * On the higher timeframe, identify "order blocks" – the last single down-closing candle within a series of candles moving against the overall trend.
+    * Switch to the lower timeframe.
+    * Wait for price to return to the order block.
+    * Look for a "fake move" (inducement) within the order block, creating liquidity.
+    * Wait for price to retest the low of that inducement move.
+    * Enter the trade upon a change in the state of delivery or market structure shift (preferably during London or New York sessions for higher timeframe trades).  The entry is typically just above the low of the inducement move.
+    * Target 1-2x the trade size or an inefficiency.
+* **Identifying Order Flow (Bearish Example):**  The process is mirrored for bearish trends, using up-closing candles to identify order blocks.
+
+**Key Points:**
+
+* **Trend Following:** The strategy emphasizes trading with the clear trend, not against it.
+* **Order Blocks:**  Focuses on identifying and trading around order blocks (last down-closing candle in an uptrend, last up-closing candle in a downtrend).
+* **Liquidity:**  Enters trades after liquidity is engineered *inside* the order block, followed by a retest.
+* **Market Structure Shifts:** Looks for market structure shifts to confirm entries, particularly within London or New York sessions for higher timeframe trades.
+* **Fast Identification:**  Emphasizes quickly identifying the trend (within 3-5 seconds).
+* **Risk Management:** Suggests using a 1:1 or 1:1.5 risk-reward ratio.
+
+
+The video provides multiple chart examples to illustrate the strategy.  It also stresses the importance of combining the knowledge from this and other videos to develop a personalized trading strategy.

@@ -1,0 +1,26 @@
+This video describes a forex trading strategy focusing on order flow and market structure.  The core components are:
+
+**1. Identifying Order Flow (Trend):**  Use the 4-hour timeframe to determine the overall trend (up or down). Look for a clear trend, avoiding consolidating price action.  A quick glance at the chart should reveal the direction.
+
+**2. Identifying Autoblocks (Support/Resistance):** Mark all autoblocks (areas of previous price rejection) on the 4-hour chart.  While entries from autoblocks within a discount zone (in the direction of the trend) are preferable, any autoblock can be used.
+
+**3. Entry Setup (15-minute timeframe):**
+    * Wait for price to return to a 4-hour autoblock.
+    * Switch to the 15-minute chart.
+    * Look for a market structure shift during the London or New York trading sessions (Asian sessions are considered less reliable).  A "turtle soup" (liquidity then purge) increases win rate significantly.
+    * Entry is taken within the autoblock upon the market structure shift.
+
+**4. Risk/Reward and Profit Targets:**
+    * Risk: Place a stop-loss order just below the low (for long trades) or above the high (for short trades).
+    * Reward: Aim for a 1:2 to 1:2.5 risk-to-reward ratio (or 1:1 if the setup is less clear).
+    * Break Even: Consider moving the stop-loss to break even at a 1:1 or 1:1.5 profit level.
+
+**Important Considerations:**
+
+* **Timeframes:** 4-hour chart for identifying the overall trend and autoblocks; 15-minute chart for entries.
+* **Backtesting and Forward Testing:**  Essential for success; the strategy may not work for everyone without practice.
+* **Market Structure Shift:**  Crucial for confirming the entry; look for a clear shift in the 15-minute chart.
+* **Kill Zones:**  Preferably take entries during London or New York trading sessions ("kill zones").
+
+
+The video emphasizes the importance of practice, backtesting, and realistic expectations.  The presenter repeatedly cautions that while the strategy works for them, success depends on individual effort and skill.

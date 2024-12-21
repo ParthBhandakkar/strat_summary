@@ -1,0 +1,24 @@
+This course teaches how to identify and trade using market maker models.  The instructor claims 6-7 years of trading experience and successful student funding.  The core concept revolves around identifying market shifts and using multiple timeframes (e.g., 4-hour, 15-minute, 1-minute) to pinpoint high-probability entry and exit points.
+
+**Key elements of the Market Maker Model:**
+
+* **Original Consolidation:**  The initial price consolidation period.
+* **Consolidation Phase(s) 2 & 3:** Subsequent consolidation periods or pullbacks.  At least one is required after the original consolidation.
+* **PDRA (Point of Dominant Range Area):** Significant highs and lows identified on higher timeframes (e.g., 4-hour, daily).
+* **Market Structure Shift:** A clear change in the market trend, identified on lower timeframes.  This often involves patterns like "lower low, lower high, lower low" or "higher high, higher low, higher high."
+* **Smart Money Reversal:**  The point where the market reverses.
+* **Entry Patterns:**  The course details multiple entry methods, including low-risk entries (0.5% risk) targeting the original consolidation high.  Entries are often taken after liquidity sweeps.  The instructor uses a ABCD pattern or low low low high low low sweep to identify liquidity and then looks for a market structure shift on a lower timeframe.
+* **Mitigation Blocks:**  Bullish or bearish auto-blocks formed during price movements toward the PDRA, which can be used to identify potential entry points.
+* **Timeframe Analysis:** The instructor emphasizes using multiple timeframes to confirm setups, starting with a higher timeframe PDRA and moving down to lower timeframes for entry confirmation.
+* **ERL (External Range Liquidity) and IORL (Internal Range Liquidity):** ERL refers to high or low points, while IORL refers to fair value gaps within a trading range. The price action often moves between ERL and IORL.  IORLs on higher timeframes often represent original consolidations on lower timeframes.
+
+
+**Instructor's Personal Approach:**
+
+The instructor shares two personal approaches:
+
+1. **ERL to IORL Method:** Uses higher timeframe ERL breakouts to identify IORLs on lower timeframes, looking for market structure shifts and ABCD patterns before entry.
+2. **PDRA-Based Method:**  Uses higher timeframe PDRAs to identify original consolidations and subsequent market structure shifts on lower timeframes.  This method involves two or three timeframes.
+
+
+The course includes numerous charts as examples to illustrate these concepts.  The instructor emphasizes that while the market maker model provides a framework, not every trade will be a winner and proper risk management is crucial.

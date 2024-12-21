@@ -1,0 +1,30 @@
+This video describes a forex trading strategy aiming for consistent monthly profits of $5,000-$10,000.  The core strategy involves identifying swing highs/lows on the daily timeframe.
+
+**The Strategy:**
+
+1. **Identify Swing High/Low:**  On the daily chart, locate a swing high or swing low.
+
+2. **Mark the Third Candle's Extreme:**  After the swing high/low forms, mark the high (for swing lows) or low (for swing highs) of the *third* candle following the swing.
+
+3. **Algorithmic Open (12 AM NY Time):** Wait for the next day's algorithmic open at 12 AM New York time. Mark this opening price on the chart.
+
+4. **Lower Timeframe Analysis (5-15 minute):** Switch to a 5 or 15-minute chart.
+
+5. **Identify Entry:** Look for one of the following below (or above for swing highs) the opening price:
+    * Liquidity sweep
+    * Fair value gap
+    * Auto block
+
+6. **Market Structure Shift:** Wait for a clear market structure shift on the lower timeframe.
+
+7. **Entry and Target:** Take your entry based on the market structure shift. Place your stop-loss just above/below the swing high/low of the third candle.  Target the marked extreme of the third candle (from step 2).  The presenter suggests sometimes scaling back targets to 1:1 or 1:2 risk/reward ratios.
+
+
+**Accuracy Claim:** The presenter claims an 80-90% accuracy rate.
+
+**Additional Notes:**
+
+* The strategy uses the concept of "high probability scalping".
+* The presenter mentions  "PD area" (likely referring to Point of Demand/Supply),  liquidity sweeps, and break of structure.
+* Examples using AUDJPY, USDCHF, and GBPJPY are provided.
+* The video also promotes a challenge-passing service and a brokerage platform ("Blue Guardian").

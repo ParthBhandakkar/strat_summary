@@ -1,0 +1,22 @@
+This video describes an SMC (Smart Money Concepts) trading strategy using two timeframes: a 4-hour timeframe for overall trend analysis (autoflow) and a 15-minute timeframe for entry signals.
+
+**Strategy Rules:**
+
+1. **Higher Timeframe Analysis (4-hour):** Identify the autoflow (overall trend – bullish or bearish).  Autoblocks are defined as the body (not the wick) of the last bearish candle before a move up (bullish autoflow) or the last bullish candle before a move down (bearish autoflow). Mark all autoblocks near the price action on the 4-hour chart.
+
+2. **Lower Timeframe Entry (15-minute):** Wait for the price to return to a 4-hour autoblock.  Then, switch to the 15-minute chart and look for a market structure shift (higher high/higher low for bullish, lower high/lower low for bearish).  Mark the 15-minute autoblock (body of the candle(s) confirming the shift).
+
+3. **Entry Timing:**  Enter trades only between 2 AM to 6 AM and 7 AM to 11:30 AM New York time. Entry is taken at the 15-minute autoblock within these hours.
+
+4. **Risk/Reward:** Aim for a minimum 1:2 risk-to-reward ratio. Consider taking 80% profit at 1:2 and letting the remainder run to further targets (liquidity levels, fair value gaps).
+
+
+**Autoblock Clarification:**  An autoblock is essentially a refined support/resistance level.  It's the body of the last candle(s) before a significant price move in the opposite direction. Wicks are ignored.
+
+**Additional Notes:**
+
+* The strategy works best on pairs excluding those with JPY (Japanese Yen).
+* A market structure shift during the specified trading hours increases the probability of success.
+* If experiencing consecutive losses, re-evaluate the overall trend and adjust your approach.  Using a 200 EMA can aid beginners.
+
+The video includes several examples illustrating the strategy on different currency pairs (EURUSD, AUDUSD).  It also promotes a crypto exchange (Bitget) and a paid trading community.

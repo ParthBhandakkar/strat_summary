@@ -1,0 +1,21 @@
+This video describes a forex trading strategy called "ACT Power of 3" for scalping on the 1-minute timeframe, aiming for ~$500 daily profit.  The core concept involves:
+
+**Identifying Intraday Bias:** Using two consecutive 1-hour candles:
+
+* **Bullish Bias:** The second candle closes above the high of the first.
+* **Bearish Bias:** The second candle closes below the high of the first (even if it wicks above).
+
+**Taking Entries (1-minute chart):**
+
+* On the opening of the third 1-hour candle, switch to the 1-minute chart.
+* **Bearish Bias:** Look for price to move up, take out liquidity (resistance levels) to the left of the opening price, and then create a market structure shift (a clear reversal signal). Enter a short position targeting previous lows.
+* **Bullish Bias:** Look for price to move down, take out liquidity (support levels) to the left of the opening price, and then create a market structure shift. Enter a long position targeting previous highs.
+
+**Key elements:**
+
+* **Liquidity:** Identifying and trading around prior highs and lows (liquidity pools).
+* **Market Structure Shift:** A clear reversal signal on the 1-minute chart confirming the entry.
+* **Wicks:**  Sufficient for entry signals; body closures are not strictly necessary.
+* **Power of 3:** The strategy utilizes the price action of three consecutive 1-hour candles (two to determine bias, one for entry).
+
+The presenter claims an 80-85% win rate using this strategy (though this is anecdotal and not verified).  He will be live trading this strategy in his Discord server starting in January.

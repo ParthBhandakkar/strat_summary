@@ -1,0 +1,21 @@
+This video describes a scalping strategy for forex trading that successfully completed a trading challenge in 11 days with a 60% win rate.  The core strategy involves:
+
+**Strategy Rules:**
+
+* **Timeframe:** 5-minute chart.
+* **Pairs:** Only USDJPY and GBPUSD.
+* **Sessions:** London and New York sessions only; exclude the Asian session.
+* **Pattern:**  Identify an ABC pattern (higher high, higher low, higher high for bullish; lower low, lower high, lower low for bearish).  The body of the C candle must close above the A high (bullish) or below the A low (bearish). Price must then retrace and close below the A high (bullish) or above the A low (bearish) before entering the trade.
+* **Entry:** Enter a trade on the retest of the A high (bullish) or A low (bearish).
+* **Risk/Reward:** 1:2 risk to reward ratio. Stop loss is placed above the B high (bullish) or below the B low (bearish).  The trader mentions the possibility of moving to break even once a 1:1 is reached, but typically lets the trade run to the 1:2 target or stop loss.
+* **Trades per Day:** Maximum of two trades per day. If the first trade is a loss, no second trade is taken that day.  If the first trade is a win, a second trade may be attempted.
+* **News:** Avoid trading during high-impact news events; wait 15-20 minutes after the news release.
+* **A Leg Start:** The A leg of the ABC pattern must begin after the Asian session ends.
+* **Setup Size:** Look for a decent-sized ABC structure; avoid very small patterns.
+
+
+**Backtesting Results:**  The video includes a backtest showing six wins and four losses, resulting in an 8% profit, successfully completing the challenge. The backtest highlights that some days may not produce suitable setups.  The trader emphasizes the importance of sticking with the strategy even during losing periods.
+
+**Additional Information:**
+
+The creator offers a paid community for $150 with additional trading education and support.

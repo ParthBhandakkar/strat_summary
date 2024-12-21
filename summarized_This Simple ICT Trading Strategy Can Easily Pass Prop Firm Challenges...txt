@@ -1,0 +1,24 @@
+This video teaches a trading strategy using several confluences for improved results.  The core components are:
+
+* **Autoflow:** Identifying the current trend (higher highs/lows for bullish, lower highs/lows for bearish) on a 15-minute timeframe.  Ignore past price action.
+
+* **SMT Divergence (ICT):**  Occurs when two correlated assets (e.g., NAS 100 and S&P 500) show different price behavior.  For example, one asset makes a higher high while the other fails to. This is a powerful signal, especially when combined with other factors.
+
+* **Market Structure Shift:**  A change in the trend on a lower timeframe (e.g., switching from 15-minute to 1-minute chart).  This confirms the SMT divergence.  If the asset that initially failed to make a new high later sweeps the low, the SMT divergence setup becomes invalid.
+
+* **Liquidity Sweeps:** Identifying and trading near liquidity levels (support/resistance areas).  The strategy focuses on long positions when the autoflow is bullish.  Short positions are possible even without a bullish autoflow, but trading with the trend improves win rate.
+
+* **Kills on R (Time):**  Specific trading hours for entries and exits. For indices, entries must be at or after 9:30 AM ET and before 11:15 AM ET; trades should be closed by 11:30 AM ET. For Forex, the hours are 8:30 AM ET to 11:15 AM ET.  Trading outside these hours is discouraged.
+
+* **Fair Value Gap (Autoblock):**  Used to identify potential entry points.
+
+
+The strategy involves:
+
+1. Identifying bullish autoflow on a 15-minute chart.
+2. Spotting SMT divergence between correlated assets.
+3. Switching to a 1-minute chart to look for a market structure shift.
+4. Waiting for Kills on R time (9:30 AM - 11:15 AM ET for indices).
+5. Entering a long position near a fair value gap after a market structure shift, provided the SMT divergence remains valid (the asset that initially failed to make a new high has not yet swept its low).
+
+The video emphasizes that consistent application and understanding of these concepts are key to profitability.  The presenter uses examples to illustrate the strategy and encourages viewers to join his academy (link in description) for further learning.

@@ -1,0 +1,36 @@
+This video teaches a forex trading strategy focused on structure and liquidity.  The core tenets are:
+
+**1. Identifying Market Structure:**
+
+* **Trend Identification:** The market trends (higher highs/higher lows for bullish, lower highs/lower lows for bearish) or ranges.  Trading should ideally occur *with* a clear trend.
+* **Order Flow:**  Analyzing price action to quickly determine the market's direction (bullish or bearish).  Lower lows indicate bearish momentum, higher highs indicate bullish.
+
+**2. Liquidity Identification and Trading:**
+
+* **Two Types of Liquidity:**
+    * **Internal Range Liquidity:** Fair value gaps (gaps in the price chart) within a trending leg. Price often rebalances itself here before continuing the trend.
+    * **External Range Liquidity:** Highs and lows of a trend; these are price levels where significant trading occurs.
+* **Trading with the Trend:**  The strategy advocates for taking trades in the direction of the identified trend, using the identified liquidity levels.
+
+**3. Time Frame Alignment:**
+
+* **Multi-Time Frame Analysis:** The trader uses a higher timeframe (e.g., 4-hour) to identify the overall trend and liquidity zones, and lower timeframes (e.g., 15-minute or 1-minute) for entry signals.
+
+**4. Entry Confirmation:**
+
+Two methods are presented for confirming entries:
+
+* **Method 1 (Two Timeframes):**
+    * Higher timeframe (e.g., 4-hour) shows price returning to internal range liquidity.
+    * Lower timeframe (e.g., 15-minute) shows a market structure shift *and* SMT (presumably Stochastic Momentum Index) divergence to confirm the move.
+* **Method 2 (Three Timeframes):**
+    * Higher timeframe (e.g., 4-hour) shows price returning to internal range liquidity.
+    * Intermediate timeframe (e.g., 15-minute) shows a market structure shift and identifies a potential Price/Delta array (PD array).
+    * Lower timeframe (e.g., 1-minute) shows a market structure shift to confirm entry.
+
+**5. Risk Management:**
+
+The strategy emphasizes placing stops below (for longs) or above (for shorts) recent price action, targeting external range liquidity as profit targets.  If the target is hit before entry, the setup is considered invalid.
+
+
+The video includes examples using AUDUSD and NZDUSD currency pairs to illustrate the strategy.  It also promotes a funded futures trading firm and the instructor's own course.

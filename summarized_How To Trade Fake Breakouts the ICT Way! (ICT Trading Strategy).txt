@@ -1,0 +1,24 @@
+This video describes a liquidity sweep trading strategy for forex trading.  The core concept involves identifying support or resistance levels formed by at least three touches of price.
+
+**Short Trades:**
+
+* **Setup:** A bullish candle initiates the resistance level. Subsequent bearish candles must not close above the wick of that initial bullish candle.  Price needs to fake out above the resistance level before retracing.
+* **Entry:** Enter a short position on the retest of the resistance level after the fake out, ensuring sufficient momentum downwards.
+* **Stop Loss:** Place the stop loss slightly above the resistance level or at the high of the fakeout candle.
+* **Take Profit:** Target a significant low, potentially a fair value gap.
+
+**Long Trades:**
+
+* **Setup:** A bearish candle initiates the support level. Subsequent bullish candles must not close below the wick of that initial bearish candle. Price needs to fake out below the support level before retracing.
+* **Entry:** Enter a long position on the retest of the support level after the fake out, ensuring sufficient momentum upwards.
+* **Stop Loss:** Place the stop loss slightly below the support level or at the low of the fakeout candle.
+* **Take Profit:** Target a significant high.
+
+**Timeframes and Risk Management:**
+
+* The strategy can be applied to various timeframes (5-minute, hourly).
+* For shorter timeframes (5-minute), a 1:2 risk-reward ratio is recommended; for longer timeframes (hourly), 1:3 is suggested.
+* The trader is advised *not* to move their stop loss to break even.
+
+
+The video emphasizes simplicity and backtesting a single strategy rather than complex combinations.  Multiple examples are provided to illustrate the strategy's application.
